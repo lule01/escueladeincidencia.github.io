@@ -45,36 +45,13 @@ mark {
   }
 }
 
-
-
 .jumbotron{
   padding: 0;
-  background: url(../img/welcome.jpg);
-  min-height: 900px;
+  height: auto;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-@media (max-width: 1500px) {
-  .jumbotron{
-    min-height: 780px;
-  }
-}
-
-@media (max-width: 1200px) {
-  .jumbotron{
-    min-height: 700px;
-  }
-}
-
-@media (max-width: 992px) {
-  .jumbotron{
-    min-height: 600px;
-  }
-}
-
-@media (max-width: 768px) {
-  .jumbotron{
-    min-height: 300px;
-  }
+.img-responsive{
+  width: 100%;
 }
