@@ -1,3 +1,20 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
+  text-shadow: rgba(0,0,0,.01) 0 0 1px;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  font-weight: 400;
+  color: black;
+  -webkit-text-size-adjust: 100%;
+}
+
+mark {
+    background-color: black;
+    color: white;
+}
+
 .navbar-home{
   padding: 20px 15px 20px 15px;
   min-height: 110px;
@@ -6,12 +23,58 @@
   position: absolute;
   top: 0;
   width: 100%;
+  .navbar-nav>li>mark>a{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  .navbar-nav>li{
+    margin: 0 5px 0 5px;
+  }
+  .navbar-right{
+    margin-top: 20px;
+  }
+  .sub-brand{
+    a{
+      color: black;
+      text-decoration: none;
+      font-size: 14px;
+    }
+  }
 }
+
+
 
 .jumbotron{
   padding: 0;
   background: url(../img/welcome.jpg);
-  min-height: 800px;
+  min-height: 900px;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+@media (max-width: 1500px) {
+  .jumbotron{
+    min-height: 780px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .jumbotron{
+    min-height: 700px;
+  }
+}
+
+@media (max-width: 992px) {
+  .jumbotron{
+    min-height: 600px;
+  }
+}
+
+@media (max-width: 768px) {
+  .jumbotron{
+    min-height: 300px;
+  }
 }
