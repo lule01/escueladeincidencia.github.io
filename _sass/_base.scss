@@ -1,1 +1,17 @@
+.navbar-home{
+  padding: 20px 15px 20px 15px;
+  min-height: 110px;
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
 
+.jumbotron{
+  padding: 0;
+  background: url(../img/welcome.jpg);
+  min-height: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
