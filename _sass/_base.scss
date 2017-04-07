@@ -13,6 +13,14 @@ body {
 mark {
     background-color: black;
     color: white;
+    a{
+      color: white;
+      text-decoration: none;
+      &:hover{
+        color: white;
+        text-decoration: none;
+      }
+    }
 }
 
 .navbar-home{
@@ -54,4 +62,13 @@ mark {
 
 .img-responsive{
   width: 100%;
+}
+
+h2{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+p.highlight{
+  font-weight: 700;
+  font-size: 18px;
 }
