@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1168px" height="938px" viewBox="0 0 1168 938" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="708" y="109" width="426" height="153"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="426" height="153" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="188" y="148" width="366" height="95"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="366" height="95" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="812" y="431" width="351" height="153"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="351" height="153" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="20" y="452" width="364" height="139"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="364" height="139" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="564" y="792.755" width="351" height="144.25"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="351" height="144.25" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="263" y="697" width="290.5" height="153"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="290.5" height="153" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <polygon id="path-13" points="0 65.5711 90.391 65.5711 90.391 0.0001 0 0.0001"></polygon>
+        <polygon id="path-15" points="13.991 14.4901 13.991 0.917844825 0.417872767 0.917844825 0.417872767 14.4901 13.991 14.4901"></polygon>
+        <polygon id="path-17" points="0 0.867944544 0 14.4423 13.5726562 14.4423 13.5726562 0.867944544 3.38813179e-20 0.867944544"></polygon>
+        <polygon id="path-19" points="0 50 40.807 50 40.807 0.907 0 0.907"></polygon>
+        <polygon id="path-21" points="89.386 44.69295 89.386 0 0 0 0 44.69295 0 89.3859 89.386 89.3859"></polygon>
+        <polygon id="path-23" points="89.386 44.69295 89.386 0 0 0 0 44.69295 0 89.3859 89.386 89.3859"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-1-Copy" transform="translate(-63.000000, -319.000000)">
+            <g id="Group" transform="translate(63.000000, 319.000000)">
+                <text id="1" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="130" font-weight="bold" fill="#000000">
+                    <tspan x="432" y="310.49">1</tspan>
+                </text>
+                <text id="2" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="130" font-weight="bold" fill="#000000">
+                    <tspan x="658.5" y="307.87">2</tspan>
+                </text>
+                <text id="3" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="130" font-weight="bold" fill="#000000">
+                    <tspan x="735" y="531.5">3</tspan>
+                </text>
+                <text id="4" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="130" font-weight="bold" fill="#000000">
+                    <tspan x="538" y="663.12">4</tspan>
+                </text>
+                <text id="5" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="130" font-weight="bold" fill="#000000">
+                    <tspan x="355" y="525.87">5</tspan>
+                </text>
+                <text id="-Duración:-3-semana" font-family="FontAwesome" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="728" y="143"> </tspan>
+                    <tspan x="745.714286" y="143" font-family="Karla-Regular, Karla">Duración: 3 semanas</tspan>
+                    <tspan x="728" y="162"> </tspan>
+                    <tspan x="745.714286" y="162" font-family="Karla-Regular, Karla">Acción: Selección acorde a criterios de:</tspan>
+                    <tspan x="728" y="181" font-family="LucidaGrande, Lucida Grande">•</tspan>
+                    <tspan x="736.96875" y="181" font-family="Karla-Regular, Karla"> Participación activa en organización o movimiento</tspan>
+                    <tspan x="728" y="200" font-family="LucidaGrande, Lucida Grande">•</tspan>
+                    <tspan x="736.96875" y="200" font-family="Karla-Regular, Karla"> Alto potencial de impacto</tspan>
+                    <tspan x="728" y="219" font-family="LucidaGrande, Lucida Grande">•</tspan>
+                    <tspan x="736.96875" y="219" font-family="Karla-Regular, Karla"> Tiempo y compromiso para desarrollo de LabCívico</tspan>
+                    <tspan x="728" y="238"> </tspan>
+                    <tspan x="745.714286" y="238" font-family="Karla-Regular, Karla">Modalidad: Entrevista virtual </tspan>
+                </text>
+                <use id="Rectangle-12-Copy" stroke="#000000" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+                <text id="-Duración:-1-mes-" font-family="FontAwesome" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="208" y="182"> </tspan>
+                    <tspan x="225.714286" y="182" font-family="Karla-Regular, Karla">Duración: 1 mes</tspan>
+                    <tspan x="208" y="201"></tspan>
+                    <tspan x="221.714286" y="201" font-family="Karla-Regular, Karla"> Acción: Difusión a través de socios y RRSS</tspan>
+                    <tspan x="208" y="220"></tspan>
+                    <tspan x="221.714286" y="220" font-family="Karla-Regular, Karla"> Modalidad: Postulación en línea</tspan>
+                </text>
+                <use id="Rectangle-12-Copy-2" stroke="#000000" mask="url(#mask-4)" stroke-width="8" xlink:href="#path-3"></use>
+                <rect id="Rectangle-1-Copy-14" fill="#000000" x="564" y="699" width="133" height="27"></rect>
+                <rect id="Rectangle-1-Copy-15" fill="#000000" x="564" y="728" width="195" height="27"></rect>
+                <rect id="Rectangle-1-Copy-16" fill="#000000" x="564" y="757" width="171" height="27"></rect>
+                <text id="Proceso-de-implement" font-family="MontserratAlternates-Regular, Montserrat Alternates" font-size="22" font-weight="normal" line-spacing="28" fill="#FFFFFF">
+                    <tspan x="568" y="719">Proceso de</tspan>
+                    <tspan x="568" y="747">implementación </tspan>
+                    <tspan x="568" y="775">y seguimiento</tspan>
+                </text>
+                <text id="Taller-para-la-incid" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="22" font-weight="bold" fill="#000000">
+                    <tspan x="832" y="472">Taller para la incidencia</tspan>
+                </text>
+                <text id="-Duración:-1-mes" font-family="FontAwesome" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="832" y="502"> </tspan>
+                    <tspan x="849.714286" y="502" font-family="Karla-Regular, Karla">Duración: 1 mes</tspan>
+                    <tspan x="832" y="521"> </tspan>
+                    <tspan x="849.714286" y="521" font-family="Karla-Regular, Karla">Acción: Implementación de cuatro </tspan>
+                    <tspan x="832" y="540" font-family="Karla-Regular, Karla">talleres regionales (3 días/país)</tspan>
+                    <tspan x="832" y="559"> </tspan>
+                    <tspan x="849.714286" y="559" font-family="Karla-Regular, Karla">Modalidad: Presencial</tspan>
+                </text>
+                <use id="Rectangle-12" stroke="#000000" mask="url(#mask-6)" stroke-width="8" xlink:href="#path-5"></use>
+                <text id="-Duración:-1-mes" font-family="FontAwesome" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="40" y="488"> </tspan>
+                    <tspan x="57.7142857" y="488" font-family="Karla-Regular, Karla">Duración: 1 mes</tspan>
+                    <tspan x="40" y="507"> </tspan>
+                    <tspan x="57.7142857" y="507" font-family="Karla-Regular, Karla">Acción: Evaluación Keep-Fix-Try y </tspan>
+                    <tspan x="40" y="526" font-family="Karla-Regular, Karla">presentación de proceso e impacto de cada </tspan>
+                    <tspan x="40" y="545" font-family="Karla-Regular, Karla">proyecto LabCívico</tspan>
+                    <tspan x="40" y="564"> </tspan>
+                    <tspan x="57.7142857" y="564" font-family="Karla-Regular, Karla">Modalidad: Conferencia virtual</tspan>
+                </text>
+                <use id="Rectangle-12-Copy-3" stroke="#000000" mask="url(#mask-8)" stroke-width="8" xlink:href="#path-7"></use>
+                <text id="LabCívico-Copy" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="22" font-weight="bold" fill="#000000">
+                    <tspan x="584.5" y="827.12">LabCívico</tspan>
+                </text>
+                <text id="-Duración:-1-mes" font-family="FontAwesome" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="584.5" y="856.62"> </tspan>
+                    <tspan x="602.214286" y="856.62" font-family="Karla-Regular, Karla">Duración: 1 mes</tspan>
+                    <tspan x="584.5" y="875.62"> </tspan>
+                    <tspan x="602.214286" y="875.62" font-family="Karla-Regular, Karla">Acción: Preparación e implementación </tspan>
+                    <tspan x="584.5" y="894.62" font-family="Karla-Regular, Karla">de, al menos, 3 LabCívicos por país</tspan>
+                    <tspan x="584.5" y="913.62"> </tspan>
+                    <tspan x="602.214286" y="913.62" font-family="Karla-Regular, Karla">Modalidad: Asesoría virtual</tspan>
+                </text>
+                <use id="Rectangle-12-Copy-6" stroke="#000000" mask="url(#mask-10)" stroke-width="8" xlink:href="#path-9"></use>
+                <text id="Proyectos-LabCívicos-Copy" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="22" font-weight="bold" fill="#000000">
+                    <tspan x="283" y="737">Proyectos LabCívicos</tspan>
+                </text>
+                <path d="M781.386,44.693 C781.386,20.009 761.376,0 736.693,0 C712.01,0 692,20.009 692,44.693 C692,69.377 712.01,89.386 736.693,89.386 C761.376,89.386 781.386,69.377 781.386,44.693" id="Fill-1-Copy" fill="#EA5350"></path>
+                <text id="-Duración:-3-meses" font-family="FontAwesome" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="283" y="767"> </tspan>
+                    <tspan x="300.714286" y="767" font-family="Karla-Regular, Karla">Duración: 3 meses</tspan>
+                    <tspan x="283" y="786"> </tspan>
+                    <tspan x="300.714286" y="786" font-family="Karla-Regular, Karla">Acción: Desarrollo de, al menos, </tspan>
+                    <tspan x="283" y="805" font-family="Karla-Regular, Karla">2 proyectos LabCívicos por país</tspan>
+                    <tspan x="283" y="824"> </tspan>
+                    <tspan x="300.714286" y="824" font-family="Karla-Regular, Karla">Modalidad: Asesoría virtual</tspan>
+                </text>
+                <use id="Rectangle-12-Copy-6" stroke="#000000" mask="url(#mask-12)" stroke-width="8" xlink:href="#path-11"></use>
+                <path d="M452.986048,561.693453 C452.986048,581.737465 469.221845,597.986582 489.251716,597.986582 M670.23452,597.986582 C690.263247,597.986582 706.499044,581.737465 706.499044,561.693453 M605.603689,255.630632 C591.439986,241.456456 568.479891,241.456456 554.317333,255.630632 M406.621919,351.932128 C392.45936,366.106304 392.45936,389.08638 406.621919,403.259412 M753.299103,351.932128 C767.460517,366.106304 767.460517,389.08638 753.299103,403.259412 M676.670486,591.527014 L670.23452,597.96826 L670.23452,598.006049 L676.670486,604.447295 M406.933133,361.067819 L406.933133,351.958465 L406.906817,351.932128 L397.804931,351.932128 M762.427305,403.428888 L753.324275,403.428888 L753.299103,403.40255 L753.299103,394.293197 M605.603689,247.076658 L605.603689,256.186011 L605.577373,256.212349 L596.474342,256.212349 M446.532919,568.134699 L452.968885,561.693453 L453.005498,561.693453 L459.441465,568.134699" id="Imported-Layers" stroke="#1A1918" stroke-width="3"></path>
+                <g id="Page-1" transform="translate(708.000000, 19.370000)" fill="#1D1C1B">
+                    <path d="M0,21.7268 L19.214,21.7268 L19.214,2.5128 L0,2.5128 L0,21.7268 Z M3.639,18.0888 L15.577,18.0888 L15.577,6.1508 L3.639,6.1508 L3.639,18.0888 Z" id="Fill-1"></path>
+                    <path d="M0,44.4678 L19.214,44.4678 L19.214,25.2528 L0,25.2528 L0,44.4678 Z M3.639,40.8298 L15.577,40.8298 L15.577,28.8918 L3.639,28.8918 L3.639,40.8298 Z" id="Fill-2"></path>
+                    <path d="M27.508,18.0888 L39.446,18.0888 L39.446,6.1508 L27.508,6.1508 L27.508,18.0888 Z M23.869,21.7268 L43.083,21.7268 L43.083,2.5128 L23.869,2.5128 L23.869,21.7268 Z" id="Fill-3"></path>
+                    <path d="M23.869,44.4678 L43.083,44.4678 L43.083,25.2528 L23.869,25.2528 L23.869,44.4678 Z M27.508,40.8298 L39.446,40.8298 L39.446,28.8918 L27.508,28.8918 L27.508,40.8298 Z" id="Fill-4"></path>
+                    <path d="M46.669,21.7268 L65.885,21.7268 L65.885,2.5128 L46.669,2.5128 L46.669,21.7268 Z M50.307,18.0888 L62.247,18.0888 L62.247,6.1508 L50.307,6.1508 L50.307,18.0888 Z" id="Fill-5"></path>
+                    <path d="M46.669,44.4678 L65.885,44.4678 L65.885,25.2528 L46.669,25.2528 L46.669,44.4678 Z M50.307,40.8298 L62.247,40.8298 L62.247,28.8918 L50.307,28.8918 L50.307,40.8298 Z" id="Fill-6"></path>
+                    <polygon id="Fill-7" points="10.2564 12.084 6.6114 8.441 4.0394 11.014 10.2564 17.228 24.9124 2.573 22.3394 0.001"></polygon>
+                </g>
+                <g id="Page-1" transform="translate(812.000000, 333.000000)">
+                    <polygon id="Fill-1" fill="#FEFEFE" points="5.771 42.7882 48.209 42.7882 48.209 11.7712 5.771 11.7712"></polygon>
+                    <path d="M7.59,40.9682 L46.39,40.9682 L46.39,13.5902 L7.59,13.5902 L7.59,40.9682 Z M3.951,44.6072 L50.028,44.6072 L50.028,9.9522 L3.951,9.9522 L3.951,44.6072 Z" id="Fill-2" fill="#1D1C1B"></path>
+                    <polygon id="Fill-3" fill="#FEFEFE" points="1.818 11.7722 52.161 11.7722 52.161 5.5852 1.818 5.5852"></polygon>
+                    <path d="M0,13.5902 L53.98,13.5902 L53.98,3.7662 L0,3.7662 L0,13.5902 Z M3.639,9.9512 L50.342,9.9512 L50.342,7.4052 L3.639,7.4052 L3.639,9.9512 Z" id="Fill-4" fill="#1D1C1B"></path>
+                    <path d="M26.9902,42.7886 L16.9982,52.7796" id="Fill-5" fill="#FEFEFE"></path>
+                    <polygon id="Fill-6" fill="#1D1C1B" points="15.7113 51.4935 18.2833 54.0655 28.2763 44.0735 25.7043 41.5015"></polygon>
+                    <path d="M26.9902,42.7886 L36.9812,52.7796" id="Fill-7" fill="#FEFEFE"></path>
+                    <polygon id="Fill-8" fill="#1D1C1B" points="25.704 44.0739 35.695 54.0659 38.269 51.4939 28.276 41.5019"></polygon>
+                    <path d="M26.9901,54.2862 L26.9901,42.7892 L26.9901,54.2862 Z" id="Fill-9" fill="#FEFEFE"></path>
+                    <polygon id="Fill-10" fill="#1D1C1B" points="25.171 54.2862 28.81 54.2862 28.81 42.7882 25.171 42.7882"></polygon>
+                    <path d="M26.9901,0 L26.9901,5.585 L26.9901,0 Z" id="Fill-11" fill="#FEFEFE"></path>
+                    <polygon id="Fill-12" fill="#1D1C1B" points="25.171 5.5852 28.81 5.5852 28.81 0.0002 25.171 0.0002"></polygon>
+                </g>
+                <path d="M882.386,361.693 C882.386,337.009 862.376,317 837.693,317 C813.01,317 793,337.009 793,361.693 C793,386.377 813.01,406.386 837.693,406.386 C862.376,406.386 882.386,386.377 882.386,361.693" id="Fill-1" fill="#EA5350" style="mix-blend-mode: multiply;"></path>
+                <g id="Page-1" transform="translate(824.000000, 725.000000)">
+                    <path d="M23.5297,40.8351 L30.3837,40.8351 L30.3837,38.0831 L31.4917,37.6131 C35.7957,35.7851 38.5767,31.5851 38.5767,26.9101 C38.5767,20.5021 33.3637,15.2891 26.9567,15.2891 C20.5497,15.2891 15.3357,20.5021 15.3357,26.9101 C15.3357,31.5851 18.1177,35.7851 22.4207,37.6131 L23.5297,38.0831 L23.5297,40.8351 Z M34.0207,44.4741 L19.8907,44.4741 L19.8907,40.4391 C14.8757,37.8211 11.6967,32.6371 11.6967,26.9101 C11.6967,18.4961 18.5427,11.6501 26.9567,11.6501 C35.3707,11.6501 42.2157,18.4961 42.2157,26.9101 C42.2157,32.6371 39.0377,37.8211 34.0207,40.4391 L34.0207,44.4741 Z" id="Fill-1" fill="#1D1C1B"></path>
+                    <mask id="mask-14" fill="white">
+                        <use xlink:href="#path-13"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <path d="M23.53,46.4131 L30.384,46.4131 L30.384,44.4741 L23.53,44.4741 L23.53,46.4131 Z M19.891,50.0521 L34.021,50.0521 L34.021,40.8351 L19.891,40.8351 L19.891,50.0521 Z" id="Fill-3" fill="#1D1C1B" mask="url(#mask-14)"></path>
+                    <polygon id="Fill-5" fill="#1D1C1B" mask="url(#mask-14)" points="25.137 42.6541 28.776 42.6541 28.776 33.7581 25.137 33.7581"></polygon>
+                    <path d="M26.9565,29.3058 C26.2295,29.3058 25.6385,29.8958 25.6385,30.6208 C25.6385,31.3478 26.2295,31.9398 26.9565,31.9398 C27.6825,31.9398 28.2715,31.3478 28.2715,30.6208 C28.2715,29.8958 27.6825,29.3058 26.9565,29.3058 M26.9565,35.5768 C24.2235,35.5768 22.0005,33.3548 22.0005,30.6208 C22.0005,27.8898 24.2235,25.6668 26.9565,25.6668 C29.6875,25.6668 31.9105,27.8898 31.9105,30.6208 C31.9105,33.3548 29.6875,35.5768 26.9565,35.5768" id="Fill-6" fill="#1D1C1B" mask="url(#mask-14)"></path>
+                    <polygon id="Fill-7" fill="#1D1C1B" mask="url(#mask-14)" points="25.137 7.6751 28.776 7.6751 28.776 0.0001 25.137 0.0001"></polygon>
+                    <polygon id="Fill-8" fill="#1D1C1B" mask="url(#mask-14)" points="41.8764 14.6076 39.3044 12.0356 44.7304 6.6086 47.3034 9.1816"></polygon>
+                    <polygon id="Fill-9" fill="#1D1C1B" mask="url(#mask-14)" points="46.238 28.7751 53.913 28.7751 53.913 25.1361 46.238 25.1361"></polygon>
+                    <polygon id="Fill-10" fill="#1D1C1B" mask="url(#mask-14)" points="44.7338 47.3058 39.3028 41.8748 41.8758 39.3028 47.3058 44.7338"></polygon>
+                    <polygon id="Fill-11" fill="#1D1C1B" mask="url(#mask-14)" points="12.0385 14.6105 6.6085 9.1815 9.1815 6.6085 14.6105 12.0385"></polygon>
+                    <polygon id="Fill-12" fill="#1D1C1B" mask="url(#mask-14)" points="0 28.7751 7.675 28.7751 7.675 25.1361 0 25.1361"></polygon>
+                    <polygon id="Fill-13" fill="#1D1C1B" mask="url(#mask-14)" points="9.1811 47.3029 6.6091 44.7309 12.0351 39.3039 14.6081 41.8769"></polygon>
+                    <path d="M70.2641,41.8722 C69.8361,41.8722 69.4071,41.9502 68.9941,42.1062 C68.1041,42.4452 67.3991,43.1102 67.0081,43.9782 C66.6161,44.8492 66.5871,45.8182 66.9271,46.7092 C67.6231,48.5502 69.6811,49.4792 71.5291,48.7802 C72.4201,48.4412 73.1261,47.7762 73.5181,46.9062 C73.9091,46.0382 73.9371,45.0672 73.5981,44.1772 C73.2601,43.2852 72.5951,42.5792 71.7271,42.1872 C71.2591,41.9772 70.7611,41.8722 70.2641,41.8722 M70.2601,52.6542 C69.2551,52.6542 68.2511,52.4412 67.3061,52.0172 C65.5511,51.2272 64.2081,49.8012 63.5251,48.0012 C62.8411,46.2012 62.8991,44.2432 63.6891,42.4862 C64.4781,40.7312 65.9041,39.3882 67.7041,38.7042 C69.5011,38.0202 71.4621,38.0792 73.2191,38.8692 C74.9741,39.6592 76.3181,41.0852 77.0011,42.8862 C77.6831,44.6852 77.6251,46.6432 76.8361,48.3992 C76.0461,50.1552 74.6201,51.4992 72.8201,52.1832 C71.9881,52.4982 71.1241,52.6542 70.2601,52.6542" id="Fill-14" fill="#1D1C1B" mask="url(#mask-14)"></path>
+                    <path d="M72.4516,56.8625 L74.1996,61.4645 C74.8556,61.3025 75.4976,61.1035 76.1166,60.8695 C76.7396,60.6325 77.3516,60.3545 77.9486,60.0415 L76.2026,55.4375 L77.2796,54.6145 C77.9206,54.1255 78.4996,53.5815 79.0006,53.0005 L79.8886,51.9705 L84.3666,53.9845 C85.0636,52.8335 85.6136,51.6095 86.0106,50.3265 L81.5336,48.3125 L81.7146,46.9665 C81.8166,46.2095 81.8396,45.4145 81.7796,44.6055 L81.6806,43.2545 L86.2836,41.5075 C86.1226,40.8515 85.9246,40.2105 85.6876,39.5865 C85.4516,38.9655 85.1756,38.3535 84.8596,37.7575 L80.3866,39.4555 L76.8496,35.6865 L78.8056,31.3395 C77.6536,30.6415 76.4306,30.0915 75.1456,29.6945 L73.1636,34.1025 L71.8866,34.0015 C71.2366,33.9505 69.9956,33.8765 69.4256,33.9255 L68.0736,34.0245 L66.3256,29.4225 C65.6726,29.5835 65.0296,29.7815 64.4066,30.0175 C63.7856,30.2535 63.1736,30.5305 62.5766,30.8455 L64.3236,35.4465 L63.2476,36.2695 C62.6016,36.7645 62.0216,37.3085 61.5226,37.8865 L60.6366,38.9165 L56.1596,36.9025 C55.4616,38.0515 54.9116,39.2755 54.5146,40.5595 L58.9226,42.5435 L58.8216,43.8215 C58.7696,44.4705 58.7036,45.7115 58.7466,46.2785 L58.8456,47.6335 L54.2416,49.3805 C54.4026,50.0365 54.6016,50.6775 54.8366,51.2975 C55.0736,51.9205 55.3506,52.5335 55.6666,53.1315 L60.2676,51.3835 L61.0916,52.4615 C61.5786,53.0975 62.1216,53.6775 62.7076,54.1835 L63.7346,55.0705 L61.7216,59.5465 C62.8706,60.2445 64.0946,60.7945 65.3796,61.1925 L67.3926,56.7145 L68.7386,56.8935 C69.5026,57.0015 70.2996,57.0235 71.0996,56.9615 L72.4516,56.8625 Z M71.8676,65.5715 L69.9896,60.6295 C69.8686,60.6285 69.7466,60.6255 69.6266,60.6195 L67.4636,65.4315 L66.0226,65.1195 C63.2326,64.5145 60.6536,63.3535 58.3546,61.6705 L57.1686,60.8005 L59.3316,55.9905 C59.2476,55.9035 59.1636,55.8135 59.0826,55.7245 L54.1436,57.5985 L53.3456,56.3625 C52.5746,55.1665 51.9316,53.8965 51.4346,52.5895 C50.9396,51.2875 50.5796,49.9135 50.3606,48.5035 L50.1346,47.0465 L55.1046,45.1615 C55.1076,45.0455 55.1116,44.9305 55.1176,44.8205 L50.2766,42.6425 L50.5886,41.2045 C51.1906,38.4165 52.3496,35.8385 54.0356,33.5365 L54.9056,32.3495 L59.7156,34.5125 C59.8036,34.4285 59.8916,34.3455 59.9806,34.2625 L58.1046,29.3225 L59.3446,28.5255 C60.5446,27.7525 61.8126,27.1095 63.1166,26.6155 C64.4276,26.1195 65.8036,25.7585 67.2046,25.5425 L68.6596,25.3175 L70.5456,30.2845 C70.6606,30.2895 70.7746,30.2935 70.8856,30.2985 L73.0626,25.4565 L74.5016,25.7675 C77.2866,26.3705 79.8666,27.5305 82.1696,29.2155 L83.3586,30.0845 L81.1646,34.9655 L81.3726,35.1885 L86.3816,33.2885 L87.1806,34.5245 C87.9506,35.7195 88.5936,36.9895 89.0896,38.2955 C89.5866,39.6065 89.9476,40.9825 90.1656,42.3835 L90.3906,43.8415 L85.4496,45.7165 C85.4466,45.8365 85.4436,45.9595 85.4386,46.0785 L90.2486,48.2425 L89.9376,49.6805 C89.3366,52.4665 88.1766,55.0465 86.4906,57.3485 L85.6216,58.5385 L80.8086,56.3745 C80.7226,56.4585 80.6346,56.5425 80.5446,56.6225 L82.4206,61.5645 L81.1806,62.3615 C79.9856,63.1325 78.7166,63.7745 77.4086,64.2705 C76.1086,64.7635 74.7336,65.1265 73.3226,65.3445 L71.8676,65.5715 Z" id="Fill-15" fill="#1D1C1B" mask="url(#mask-14)"></path>
+                </g>
+                <g id="Page-1" transform="translate(266.000000, 633.000000)">
+                    <polygon id="Fill-1" fill="#1D1C1B" points="29.238 50.6994 19.091 19.5594 22.55 18.4304 32.698 49.5714"></polygon>
+                    <polygon id="Fill-2" fill="#1D1C1B" points="53.4714 34.1769 45.2304 8.3369 48.6964 7.2319 56.9364 33.0719"></polygon>
+                    <polygon id="Fill-3" fill="#1D1C1B" points="32.6697 50.7785 29.2667 49.4935 45.2617 7.1415 48.6647 8.4265"></polygon>
+                    <polygon id="Fill-4" fill="#1D1C1B" points="8.3308 42.5373 5.2408 40.6153 19.2748 18.0343 22.3648 19.9563"></polygon>
+                    <polygon id="Fill-5" fill="#1D1C1B" points="54.4919 35.299 20.1079 20.669 21.5319 17.32 55.9159 31.95"></polygon>
+                    <polygon id="Fill-6" fill="#1D1C1B" points="30.3611 51.8507 6.1791 43.2917 7.3931 39.8617 31.5751 48.4197"></polygon>
+                    <polygon id="Fill-7" fill="#1D1C1B" points="31.9929 51.6388 29.9429 48.6318 54.1799 32.1198 56.2279 35.1278"></polygon>
+                    <g id="Group-30" transform="translate(0.000000, 0.920800)">
+                        <path d="M26.0671,50.0188 C25.6231,47.3128 27.4571,44.7578 30.1631,44.3128 C32.8701,43.8688 35.4241,45.7028 35.8691,48.4098 C36.3131,51.1158 34.4801,53.6698 31.7731,54.1148 C29.0661,54.5598 26.5111,52.7258 26.0671,50.0188" id="Fill-8" fill="#FEFEFE"></path>
+                        <path d="M27.862,49.7239 C28.144,51.4349 29.758,52.6059 31.478,52.3209 C33.191,52.0389 34.355,50.4169 34.074,48.7039 C33.791,46.9919 32.169,45.8179 30.458,46.1079 C28.745,46.3889 27.581,48.0109 27.862,49.7239 M30.966,55.9999 C27.703,55.9999 24.818,53.6349 24.272,50.3149 C23.666,46.6219 26.175,43.1239 29.868,42.5179 C33.575,41.9129 37.058,44.4219 37.664,48.1149 C38.27,51.8059 35.76,55.3039 32.068,55.9109 C31.697,55.9719 31.329,55.9999 30.966,55.9999" id="Fill-10" fill="#1D1C1B"></path>
+                        <path d="M50.3035,33.509 C49.8595,30.802 51.6935,28.248 54.3995,27.803 C57.1065,27.359 59.6605,29.193 60.1055,31.9 C60.5495,34.606 58.7155,37.16 56.0095,37.605 C53.3025,38.05 50.7475,36.216 50.3035,33.509" id="Fill-12" fill="#FEFEFE"></path>
+                        <g id="Group-16" transform="translate(48.000000, 25.000000)">
+                            <mask id="mask-16" fill="white">
+                                <use xlink:href="#path-15"></use>
+                            </mask>
+                            <g id="Clip-15"></g>
+                            <path d="M4.0984,8.2141 C4.3794,9.9251 5.9964,11.0961 7.7154,10.8111 C9.4264,10.5291 10.5904,8.9061 10.3104,7.1931 C10.0314,5.4811 8.4114,4.3231 6.6954,4.5981 C4.9824,4.8791 3.8174,6.5021 4.0984,8.2141 M7.2034,14.4901 C3.9404,14.4901 1.0534,12.1251 0.5084,8.8051 C-0.0986,5.1121 2.4114,1.6141 6.1034,1.0081 C9.8044,0.4021 13.2954,2.9121 13.9014,6.6041 C14.5064,10.2971 11.9944,13.7941 8.3054,14.4011 C7.9344,14.4621 7.5664,14.4901 7.2034,14.4901" id="Fill-14" fill="#1D1C1B" mask="url(#mask-16)"></path>
+                        </g>
+                        <path d="M15.9197,18.8792 C15.4757,16.1732 17.3097,13.6182 20.0157,13.1742 C22.7227,12.7292 25.2767,14.5632 25.7217,17.2702 C26.1657,19.9772 24.3327,22.5312 21.6257,22.9762 C18.9187,23.4202 16.3637,21.5862 15.9197,18.8792" id="Fill-17" fill="#FEFEFE"></path>
+                        <path d="M17.7146,18.5842 C17.9956,20.2972 19.6186,21.4682 21.3296,21.1802 C23.0426,20.8992 24.2066,19.2762 23.9266,17.5632 C23.6456,15.8522 22.0216,14.6862 20.3116,14.9692 C18.5986,15.2502 17.4346,16.8722 17.7146,18.5842 M20.8166,24.8602 C17.5556,24.8602 14.6696,22.4962 14.1246,19.1762 L14.1246,19.1742 C13.5196,15.4812 16.0296,11.9852 19.7196,11.3792 C23.4166,10.7722 26.9096,13.2832 27.5176,16.9742 C28.1226,20.6682 25.6106,24.1662 21.9196,24.7702 C21.5496,24.8312 21.1816,24.8602 20.8166,24.8602" id="Fill-19" fill="#1D1C1B"></path>
+                        <path d="M1.8855,41.4612 C1.4415,38.7542 3.2755,36.2002 5.9815,35.7552 C8.6885,35.3112 11.2425,37.1452 11.6875,39.8522 C12.1315,42.5582 10.2985,45.1122 7.5915,45.5572 C4.8845,46.0022 2.3295,44.1682 1.8855,41.4612" id="Fill-21" fill="#FEFEFE"></path>
+                        <g id="Group-25" transform="translate(0.000000, 33.000000)">
+                            <mask id="mask-18" fill="white">
+                                <use xlink:href="#path-17"></use>
+                            </mask>
+                            <g id="Clip-24"></g>
+                            <path d="M3.6804,8.1663 C3.9614,9.8773 5.5804,11.0543 7.2974,10.7633 C9.0094,10.4813 10.1734,8.8593 9.8914,7.1463 C9.7554,6.3163 9.3044,5.5893 8.6204,5.0993 C7.9374,4.6063 7.1004,4.4113 6.2774,4.5503 C4.5634,4.8313 3.3994,6.4533 3.6804,8.1663 M6.7854,14.4423 C3.5234,14.4423 0.6364,12.0773 0.0904,8.7573 C-0.5166,5.0643 1.9934,1.5663 5.6864,0.9603 C7.4664,0.6643 9.2694,1.0853 10.7444,2.1443 C12.2164,3.2013 13.1894,4.7693 13.4824,6.5573 C14.0884,10.2483 11.5784,13.7463 7.8874,14.3533 C7.5164,14.4143 7.1484,14.4423 6.7854,14.4423" id="Fill-23" fill="#1D1C1B" mask="url(#mask-18)"></path>
+                        </g>
+                        <path d="M42.0632,7.6682 C41.6182,4.9622 43.4522,2.4072 46.1592,1.9632 C48.8652,1.5182 51.4192,3.3522 51.8652,6.0592 C52.3092,8.7652 50.4752,11.3192 47.7682,11.7652 C45.0622,12.2092 42.5072,10.3752 42.0632,7.6682" id="Fill-26" fill="#FEFEFE"></path>
+                        <path d="M43.8572,7.3733 C44.1402,9.0863 45.7722,10.2483 47.4732,9.9693 C49.1862,9.6883 50.3502,8.0653 50.0702,6.3523 C49.7902,4.6403 48.1742,3.4803 46.4552,3.7583 C44.7422,4.0393 43.5762,5.6623 43.8572,7.3733 M46.9592,13.6493 C43.6982,13.6493 40.8132,11.2843 40.2672,7.9653 C39.6612,4.2723 42.1702,0.7743 45.8632,0.1673 C49.5612,-0.4307 53.0542,2.0723 53.6602,5.7633 C54.2652,9.4573 51.7542,12.9553 48.0632,13.5593 C47.6922,13.6203 47.3242,13.6493 46.9592,13.6493" id="Fill-28" fill="#1D1C1B"></path>
+                    </g>
+                </g>
+                <g id="Page-1" transform="translate(24.000000, 357.000000)">
+                    <polygon id="Fill-1" fill="#FEFEFE" points="1.819 48.2727 38.987 48.2727 38.987 2.8197 1.819 2.8197"></polygon>
+                    <path d="M0,50.0927 L40.807,50.0927 L40.807,1.0007 L0,1.0007 L0,50.0927 Z M3.639,46.4547 L37.168,46.4547 L37.168,4.6387 L3.639,4.6387 L3.639,46.4547 Z" id="Fill-2" fill="#1D1C1B"></path>
+                    <polygon id="Fill-3" fill="#1D1C1B" points="14.775 16.4027 33.288 16.4027 33.288 12.7637 14.775 12.7637"></polygon>
+                    <g id="Group-13" transform="translate(0.000000, 0.092700)">
+                        <path d="M11.3566,14.4909 C11.3566,13.4349 10.5016,12.5799 9.4456,12.5799 C8.3896,12.5799 7.5346,13.4349 7.5346,14.4909 C7.5346,15.5469 8.3896,16.4019 9.4456,16.4019 C10.5016,16.4019 11.3566,15.5469 11.3566,14.4909 Z" id="Fill-4" fill="#1D1C1B"></path>
+                        <mask id="mask-20" fill="white">
+                            <use xlink:href="#path-19"></use>
+                        </mask>
+                        <g id="Clip-7"></g>
+                        <polygon id="Fill-6" fill="#1D1C1B" mask="url(#mask-20)" points="14.775 23.639 33.288 23.639 33.288 20 14.775 20"></polygon>
+                        <path d="M11.3566,21.821 C11.3566,20.765 10.5016,19.91 9.4456,19.91 C8.3896,19.91 7.5346,20.765 7.5346,21.821 C7.5346,22.876 8.3896,23.732 9.4456,23.732 C10.5016,23.732 11.3566,22.876 11.3566,21.821" id="Fill-8" fill="#1D1C1B" mask="url(#mask-20)"></path>
+                        <polygon id="Fill-9" fill="#1D1C1B" mask="url(#mask-20)" points="14.775 30.97 33.288 30.97 33.288 27.331 14.775 27.331"></polygon>
+                        <path d="M11.3566,29.1501 C11.3566,28.0951 10.5016,27.2391 9.4456,27.2391 C8.3896,27.2391 7.5346,28.0951 7.5346,29.1501 C7.5346,30.2061 8.3896,31.0611 9.4456,31.0611 C10.5016,31.0611 11.3566,30.2061 11.3566,29.1501" id="Fill-10" fill="#1D1C1B" mask="url(#mask-20)"></path>
+                        <polygon id="Fill-11" fill="#1D1C1B" mask="url(#mask-20)" points="14.775 38.299 33.288 38.299 33.288 34.661 14.775 34.661"></polygon>
+                        <path d="M11.3566,36.4802 C11.3566,35.4242 10.5016,34.5692 9.4456,34.5692 C8.3896,34.5692 7.5346,35.4242 7.5346,36.4802 C7.5346,37.5362 8.3896,38.3912 9.4456,38.3912 C10.5016,38.3912 11.3566,37.5362 11.3566,36.4802" id="Fill-12" fill="#1D1C1B" mask="url(#mask-20)"></path>
+                    </g>
+                </g>
+                <rect id="Rectangle" fill="#32AEC1" x="906" y="282" width="205" height="53"></rect>
+                <rect id="Rectangle-Copy" fill="#32AEC1" x="896" y="601" width="267" height="95"></rect>
+                <rect id="Rectangle-Copy-2" fill="#32AEC1" x="218" y="280" width="133" height="95"></rect>
+                <rect id="Rectangle-Copy-3" fill="#32AEC1" x="266" y="865" width="144" height="57"></rect>
+                <rect id="Rectangle-1-Copy-10" fill="#000000" x="812" y="398" width="254" height="27"></rect>
+                <g id="Page-1" transform="translate(188.000000, 56.000000)">
+                    <path d="M0,32.3168 L10.202,32.3168 L10.202,14.1278 L0,14.1278 L0,32.3168 Z M3.639,28.6798 L6.564,28.6798 L6.564,17.7668 L3.639,17.7668 L3.639,28.6798 Z" id="Fill-1" fill="#1D1C1B"></path>
+                    <path d="M46.922,46.4448 L56.018,46.4448 L56.018,-0.0002 L46.922,-0.0002 L46.922,46.4448 Z M50.561,42.8058 L52.38,42.8058 L52.38,3.6378 L50.561,3.6378 L50.561,42.8058 Z" id="Fill-2" fill="#1D1C1B"></path>
+                    <g id="Group-9" transform="translate(6.000000, 2.444800)">
+                        <path d="M14.3103,31.9686 C14.5853,33.8626 16.2203,35.3206 18.1893,35.3206 C19.3193,35.3206 20.3653,34.8296 21.0913,34.0286 L14.3103,31.9686 Z M18.1893,38.9586 C14.0213,38.9586 10.6303,35.5676 10.6303,31.4006 C10.6303,30.5956 10.7613,29.7936 11.0183,29.0186 L11.5793,27.3366 L25.9403,31.6976 L25.4703,33.4056 C24.5723,36.6756 21.5773,38.9586 18.1893,38.9586 L18.1893,38.9586 Z" id="Fill-3" fill="#1D1C1B"></path>
+                        <polygon id="Fill-5" fill="#FEFEFE" points="2.3826 15.1112 2.3826 26.4432 12.7456 29.5912 23.7156 32.9242 42.7406 38.7042 42.7406 2.8512"></polygon>
+                        <path d="M4.202,25.0956 L40.923,36.2496 L40.923,5.3056 L4.202,16.4596 L4.202,25.0956 Z M44.561,41.1586 L0.563,27.7926 L0.563,13.7626 L44.561,0.3966 L44.561,41.1586 Z" id="Fill-7" fill="#1D1C1B"></path>
+                    </g>
+                </g>
+                <rect id="Rectangle-2" fill="#F7BD3A" x="953" y="724" width="215" height="57"></rect>
+                <g id="Page-1" style="mix-blend-mode: multiply;" transform="translate(824.000000, 718.000000)">
+                    <mask id="mask-22" fill="white">
+                        <use xlink:href="#path-21"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M89.386,44.6929 C89.386,20.0089 69.376,-0.0001 44.693,-0.0001 C20.01,-0.0001 0,20.0089 0,44.6929 C0,69.3769 20.01,89.3859 44.693,89.3859 C69.376,89.3859 89.386,69.3769 89.386,44.6929" id="Fill-1" fill="#EA5350" mask="url(#mask-22)"></path>
+                </g>
+                <text id="Selección-de-5-a-8-p" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="16" font-weight="bold" fill="#000000">
+                    <tspan x="915" y="304">Selección de 5 a 8 </tspan>
+                    <tspan x="915" y="323">participantes por país</tspan>
+                </text>
+                <text id="Contenidos:-•-Herram" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="16" font-weight="bold" fill="#000000">
+                    <tspan x="905" y="624">Contenidos:</tspan>
+                    <tspan x="905" y="643">• Herramientas de facilitación</tspan>
+                    <tspan x="905" y="662">• Cultura de incidencia</tspan>
+                    <tspan x="905" y="681">• Herramientas tecnológicas</tspan>
+                </text>
+                <text id="Transferiremos-la-me" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="16" font-weight="bold" fill="#000000">
+                    <tspan x="986.924" y="749">Transferiremos la </tspan>
+                    <tspan x="964.82" y="768">metodología LabCívico</tspan>
+                </text>
+                <text id="Adaptación-metodológ" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="16" font-weight="bold" fill="#000000">
+                    <tspan x="227" y="303">Adaptación </tspan>
+                    <tspan x="227" y="322">metodológica</tspan>
+                    <tspan x="227" y="341">con lecciones </tspan>
+                    <tspan x="227" y="360">aprendidas</tspan>
+                </text>
+                <text id="Financiamiento-para" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-size="16" font-weight="bold" fill="#000000">
+                    <tspan x="275" y="888">Financiamiento</tspan>
+                    <tspan x="275" y="907">para proyectos</tspan>
+                </text>
+                <g id="Page-1-Copy" style="mix-blend-mode: multiply;" transform="translate(252.000000, 617.000000)">
+                    <mask id="mask-24" fill="white">
+                        <use xlink:href="#path-23"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M89.386,44.6929 C89.386,20.0089 69.376,-0.0001 44.693,-0.0001 C20.01,-0.0001 0,20.0089 0,44.6929 C0,69.3769 20.01,89.3859 44.693,89.3859 C69.376,89.3859 89.386,69.3769 89.386,44.6929" id="Fill-1" fill="#EA5350" mask="url(#mask-24)"></path>
+                </g>
+                <text id="Proceso-de-formación" font-family="MontserratAlternates-Regular, Montserrat Alternates" font-size="22" font-weight="normal" line-spacing="28" fill="#FFFFFF">
+                    <tspan x="816" y="418">Proceso de formación</tspan>
+                </text>
+                <path d="M266.386,79.693 C266.386,55.009 246.376,35 221.693,35 C197.01,35 177,55.009 177,79.693 C177,104.377 197.01,124.386 221.693,124.386 C246.376,124.386 266.386,104.377 266.386,79.693" id="Fill-1-Copy-2" fill="#EA5350" style="mix-blend-mode: multiply;"></path>
+                <path d="M89.386,385.693 C89.386,361.009 69.376,341 44.693,341 C20.01,341 0,361.009 0,385.693 C0,410.377 20.01,430.386 44.693,430.386 C69.376,430.386 89.386,410.377 89.386,385.693" id="Fill-1-Copy-3" fill="#EA5350" style="mix-blend-mode: multiply;"></path>
+                <rect id="Rectangle-1-Copy-11" fill="#000000" x="708" y="75" width="242" height="27"></rect>
+                <rect id="Rectangle-1-Copy-13" fill="#000000" x="188" y="112" width="291" height="27"></rect>
+                <rect id="Rectangle-1-Copy-12" fill="#000000" x="20" y="416" width="267" height="27"></rect>
+                <text id="Proceso-de-selección" font-family="MontserratAlternates-Regular, Montserrat Alternates" font-size="22" font-weight="normal" line-spacing="28" fill="#FFFFFF">
+                    <tspan x="712" y="95">Proceso de selección</tspan>
+                </text>
+                <text id="Proceso-de-evaluació" font-family="MontserratAlternates-Regular, Montserrat Alternates" font-size="22" font-weight="normal" line-spacing="28" fill="#FFFFFF">
+                    <tspan x="24" y="436">Proceso de evaluación</tspan>
+                </text>
+                <text id="Proceso-de-convocato" font-family="MontserratAlternates-Regular, Montserrat Alternates" font-size="22" font-weight="normal" line-spacing="28" fill="#FFFFFF">
+                    <tspan x="192" y="132">Proceso de convocatoria</tspan>
+                </text>
+                <polygon id="Triangle-Copy" fill="#32AEC1" points="913.5 591 924 607 903 607"></polygon>
+                <polygon id="Triangle-Copy-2" fill="#32AEC1" points="286.5 857 297 873 276 873"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

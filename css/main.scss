@@ -14,13 +14,10 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$text-color:       #000000;
+$yellow:           #F7BD3A;
+$red:              #EA5350;
+$blue:             #32AEC1;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
