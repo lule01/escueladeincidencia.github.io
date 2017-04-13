@@ -1,38 +1,26 @@
 <footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+  <div id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <img src="../img/logo-blanco.svg">
+        </div>
+        <div class="col-md-3">
+          Un proyecto de
+          <img src="../img/logo-fci.svg">
+        </div>
+        <div class="col-md-3">
+          Con el apoyo de
+          <img src="../img/logo-ned.svg">
+        </div>
+        <div class="col-md-3">
+          <ul class="list-unstyled">
+            <li><a href="mailto:info@ciudadanointeligente.org?Subject=Prensa%20de%20Partido%20Publico" class="email-prensa" target="_top"><i class="fa fa-envelope-o"></i> Mándanos un correo</a></li>
+            <li><a href="//github.com/ciudadanointeligente/partidopublico" target="_blank"><i class="fa fa-github-alt"></i> Revisa nuestro código</a></li>
+            <li><a href="//twitter.com/ciudadanoi" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> @Ciudadanoi</a></li>
+            <li><a href="//www.facebook.com/ciudadanointeligente" target="_blank"><i class="fa  fa-facebook" aria-hidden="true"></i> Ciudadano Inteligente</li></a>
+          </ul>        </div>
       </div>
     </div>
-
   </div>
-
 </footer>
