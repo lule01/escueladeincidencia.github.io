@@ -15,12 +15,7 @@
     </div>
 
     <div id="navbar" class="navbar-collapse collapse">
-      <ul class="nav navbar-nav navbar-right hidden">
-        <li><mark><a href="{{ site.baseurl }}/metodologia.html" onclick="ga('send','event','menu-metodologia','click')">Metodología</a></mark></li>
-        <li><mark><a href="{{ site.baseurl }}/participantes.html" onclick="ga('send','event','menu-participantes','click')">Participantes</a></mark></li>
-        <li><mark><a href="{{ site.baseurl }}/contacto.html" onclick="ga('send','event','menu-contacto','click')">Contacto</a></mark></li>
-      </ul>
-      <ul class="list-unstyled list-inline">
+      <ul class="list-unstyled list-inline navbar-right">
         <li>
           <a href="#" onclick="window.open(&quot;//twitter.com/share?url=https%3A%2F%2Fescueladeincidencia.org&amp;hashtags=EscueladeIncidencia&amp;text=Entregamos herramientas de incidencia para cambiar el mundo. Conoce más en&quot;,&quot;twitter&quot;,&quot;width=450, height=250&quot;)">
              <span class="fa-stack fa-lg">
@@ -29,7 +24,7 @@
            </span>
          </a>
         </li>
-        <li>
+        <li class="rrss">
           <a href="#" onclick="window.open(&quot;//www.facebook.com/sharer/sharer.php?u=https://escueladeincidencia.org&quot;,&quot;facebook&quot;,&quot;width=550, height=350&quot;)">
             <span class="fa-stack fa-lg">
              <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
@@ -37,6 +32,11 @@
             </span>
           </a>
         </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right hidden">
+        <li><mark><a href="{{ site.baseurl }}/metodologia.html" onclick="ga('send','event','menu-metodologia','click')">Metodología</a></mark></li>
+        <li><mark><a href="{{ site.baseurl }}/participantes.html" onclick="ga('send','event','menu-participantes','click')">Participantes</a></mark></li>
+        <li><mark><a href="{{ site.baseurl }}/contacto.html" onclick="ga('send','event','menu-contacto','click')">Contacto</a></mark></li>
       </ul>
     </div><!--/.nav-collapse -->
   </div>
