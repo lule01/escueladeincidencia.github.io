@@ -1,4 +1,3 @@
-#Bolivia#
 - name: "Raisa Valda"
   country: "Bolivia"
   organization: "Cuántas Más"
@@ -71,7 +70,6 @@
   tags: "DDHH, Sustentabilidad"
   uid: "bolivia-7"
 
-#Colombia#
 - name: "Bibiana Quintero"
   country: "Colombia"
   organization: "Centro de Derechos Humanos e Innovación Social"
@@ -144,7 +142,6 @@
   tags: "Gobierno Abierto, Participación Ciudadana"
   uid: "colombia-8"
 
-#Ecuador#
 - name: "André Granda"
   country: "Ecuador"
   organization: "FLACSO"
@@ -217,7 +214,6 @@
   tags: "Participación Ciudadana, Sustentabilidad"
   uid: "ecuador-8"
 
-#Perú#
 - name: "Andrés Devoto"
   country: "Perú"
   organization: "Colectivo DespiertaLima / Contribuyentes por Respeto"

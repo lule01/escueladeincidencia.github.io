@@ -2,10 +2,10 @@
 layout: default
 ---
 <section class="profiles">
-    <div class="container">
+    <div class="container grid">
       {% assign sorted = site.data.todos.participantes | shuffle  %}
       {% for member in sorted %}
-        <div class="col-xs-12 col-sm-6 col-md-3">
+        <div class="col-xs-12 col-sm-6 col-md-3 grid-item">
           <div class="perfil">
             <img src="{{ site.baseurl }}{{ member.image }}" alt="..." class="img-bio">
             <div class="perfil-info">
