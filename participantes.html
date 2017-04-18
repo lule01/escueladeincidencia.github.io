@@ -1,3 +1,46 @@
 ---
 layout: default
 ---
+<h4>Bolivia</h4>
+  {% for member in site.data.2017.bolivia %}
+    <div class="col-sm-6 col-md-3 text-center perfil">
+      <img src="{{ site.baseurl }}{{ member.image }}" alt="...">
+      <ul class="list-unstyled">
+        <li>{{ member.name }}</li>
+        <li>{{ member.organization }}</li>
+      </ul>
+    </div>
+  {% endfor %}
+
+<h4>Colombia</h4>
+  {% for member in site.data.2017.colombia %}
+    <div class="col-sm-6 col-md-3 text-center perfil">
+      <img src="{{ site.baseurl }}{{ member.image }}" alt="...">
+      <ul class="list-unstyled">
+        <li>{{ member.name }}</li>
+        <li>{{ member.organization }}</li>
+      </ul>
+    </div>
+  {% endfor %}
+
+<h4>Ecuador</h4>
+  {% for member in site.data.2017.ecuador %}
+    <div class="col-sm-6 col-md-3 text-center perfil">
+      <img src="{{ site.baseurl }}{{ member.image }}" alt="...">
+      <ul class="list-unstyled">
+        <li>{{ member.name }}</li>
+        <li>{{ member.organization }}</li>
+      </ul>
+    </div>
+  {% endfor %}
+
+<h4>Perú</h4>
+  {% for member in site.data.2017.peru %}
+    <div class="col-sm-6 col-md-3 text-center perfil">
+      <img src="{{ site.baseurl }}{{ member.image }}" alt="...">
+      <ul class="list-unstyled">
+        <li>{{ member.name }}</li>
+        <li>{{ member.organization }}</li>
+      </ul>
+    </div>
+  {% endfor %}
