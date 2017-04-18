@@ -2,8 +2,8 @@
   <div class="container">
     <div class="navbar-header">
       <div class="brand">
-        <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo.svg"></a>
-        <div class="sub-brand"><a href="http://ciudadanointeligente.org" target="_blank">Un proyecto de Ciudadano Inteligente</a>
+        <a class="site-title" href="{{ site.baseurl }}/" onclick="ga('send','event','logo-home','click')"><img src="{{ site.baseurl }}/img/logo.svg"></a>
+        <div class="sub-brand"><a href="http://ciudadanointeligente.org" target="_blank" onclick="ga('send','event','sub-brand-fci','click')">Un proyecto de Ciudadano Inteligente</a>
         </div>
       </div>
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -16,9 +16,9 @@
 
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right hidden">
-        <li><a href="{{ site.baseurl }}/metodologia.html">Metodología</a></li>
-        <li><a href="{{ site.baseurl }}/participantes.html">Participantes</a></li>
-        <li><a href="{{ site.baseurl }}/contacto.html">Contacto</a></li>
+        <li><a href="{{ site.baseurl }}/metodologia.html" onclick="ga('send','event','menu-metodologia','click')">Metodología</a></li>
+        <li><a href="{{ site.baseurl }}/participantes.html" onclick="ga('send','event','menu-participantes','click')">Participantes</a></li>
+        <li><a href="{{ site.baseurl }}/contacto.html" onclick="ga('send','event','menu-contacto','click')">Contacto</a></li>
       </ul>
     </div><!--/.nav-collapse -->
   </div>
