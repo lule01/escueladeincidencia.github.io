@@ -18,3 +18,5 @@ analytics: 'UA-76464035-3'
 
 # Build settings
 markdown: kramdown
+
+pluguins: ['shuffle']
