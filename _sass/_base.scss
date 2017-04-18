@@ -57,6 +57,41 @@ mark {
   }
 }
 
+.navbar-default{
+  background-color: black;
+  border: none;
+  padding: 20px 15px 20px 15px;
+  min-height: 110px;
+  top: 0;
+  .sub-brand{
+    a{
+      color: white;
+      text-decoration: none;
+      font-size: 14px;
+    }
+  }
+  .navbar-nav>li>a{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    &:hover{
+      color: $yellow;
+    }
+  }
+  .navbar-nav>li{
+    margin: 0 5px 0 5px;
+  }
+  .navbar-right{
+    margin-top: 5px;
+  }
+}
+
+.navbar{
+  border-radius: 0;
+}
+
 .jumbotron{
   padding: 0;
   height: auto;
