@@ -1,4 +1,5 @@
 - name: "Andrés Devoto"
+  country: "Perú"
   organization: "Colectivo DespiertaLima / Contribuyentes por Respeto"
   position: "Promotor / Asistente de Investigación"
   bio: "Soy un enamorado de Lima. Me interesan los temas urbanos con un enfoque de derecho administrativo, regulación y políticas públicas."
@@ -7,6 +8,7 @@
   uid: "peru-1"
 
 - name: "Carlos Arroyo"
+  country: "Perú"
   organization: "Proética"
   position: "Coordinador en Proyectos de Acción Ciudadana y Gobierno Abierto"
   bio: "Peruano, comunicador social. Convencido de que la transparencia y el buen gobierno son posibles, solo hace falta ponerle ganas y querer hacer las cosas bien."
@@ -15,6 +17,7 @@
   uid: "peru-2"
 
 - name: "Evelyn Huarcaya"
+  country: "Perú"
   organization: "Ministerio de Educación"
   position: "Especialista en Liderazgo Directivo"
   bio: "Soy una maestra emprendedora. Apasionada de la educación, convencida de que las políticas públicas inician desde los propios usuarios. Escucharnos y entendernos es vital para desarrollar cambios estructurales y sostenibles."
@@ -23,6 +26,7 @@
   uid: "peru-3"
 
 - name: "Gonzalo Alarcón"
+  country: "Perú"
   organization: "Grupo Limonta"
   position: "Coordinador de Proyectos"
   bio: "Ingeniero civil, convencido de que la ingeniería debe servir a las personas y con ganas de tener un impacto real en la sociedad."
@@ -31,6 +35,7 @@
   uid: "peru-4"
 
 - name: "Jessica Huamán"
+  country: "Perú"
   organization: "Nutriedúcate Perú"
   position: "Fundadora y Presidenta"
   bio: "Nutricionista, especialista en nutrición pública, con Maestría en Ciencia Política y Gobierno. Emprendedora social con experiencia en proyectos sociales relacionados a seguridad alimentaria y juventudes."
@@ -47,6 +52,7 @@
   uid: "peru-6"
 
 - name: "Mirtha Vásquez"
+  country: "Perú"
   organization: "GRUFIDES"
   position: "Directora Ejecutiva"
   bio: "Abogada, defensora de derechos humanos, profesora universitaria. Comprometida con procesos sociales para la búsqueda de sociedades más equitativas, justas y con pleno respeto por la dignididad."
@@ -55,6 +61,7 @@
   uid: "peru-7"
 
 - name: "Patricia Alata"
+  country: "Perú"
   organization: "Lima Cómo Vamos"
   position: "Coordinadora de proyectos"
   bio: "Apasionada de la información y su poder para crear cambios sociales colaborativos. Enfocada en desarrollo sostenible, políticas públicas y vivir con coherencia."

@@ -107,6 +107,17 @@ h2{
   font-family: 'Montserrat Alternates', sans-serif;
 }
 
+h3{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h4{
+  font-family: 'Karla', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 17px;
+}
+
 p.highlight{
   font-weight: 700;
   font-size: 20px;
@@ -115,6 +126,28 @@ p.highlight{
 
 #countries{
   background-image: url(../img/countries-2017.svg);
+}
+
+.img-bio{
+  width: 100%;
+}
+
+.perfil{
+  border: 4px solid black;
+  margin-bottom: 20px;
+}
+
+.perfil-info{
+  padding: 15px;
+}
+
+.persona-org{
+  border-left: 5px solid black;
+  padding-left: 7px;
+}
+
+p.bio{
+    font-size: 14px;
 }
 
 .site-footer {

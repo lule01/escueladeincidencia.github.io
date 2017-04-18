@@ -1,4 +1,5 @@
 - name: "Bibiana Quintero"
+  country: "Colombia"
   organization: "Centro de Derechos Humanos e Innovación Social"
   position: "Presidenta"
   bio: "Estudiante de Derecho, apasionada por los derechos humanos y soñadora por excelencia. Creo profundamente que entre todos podemos construir el mundo que tanto queremos."
@@ -7,6 +8,7 @@
   uid: "colombia-1"
 
 - name: "Carlos Parra"
+  country: "Colombia"
   organization: "Centro Incide"
   position: "Presidente"
   bio: "Abogado y Profesor de Historia de las Ideas Políticas en la Universidad del Rosario. Coordinador de la Unidad de Trabajo Legislativo de la Representante Angélica Lozano. Co-creador de #ImPacta y @DebateColombia."
@@ -15,6 +17,7 @@
   uid: "colombia-2"
 
 - name: "Caro Lara"
+  country: "Colombia"
   organization: "Instituto Colombiano de Bienestar Familiar"
   position: "Asesora de la Dirección de Planeación y Control de Gestión"
   bio: "Abogada, doctorante en ciencias políticas. Asesora en transparencia, participación y paz en en la Dirección de Planeación del Instituto Colombiano de Bienestar Familiar."
@@ -23,6 +26,7 @@
   uid: "colombia-3"
 
 - name: "Danna Rodríguez"
+  country: "Colombia"
   organization: "Plataforma Juvenil de Cáqueza"
   position: "Coordinadora"
   bio: "Lider juvenil de Cáqueza, al servicio de su comunidad. Defensora de los derechos humanos y abogada de causas sociales. Paz, transparencia y bien general."
@@ -31,6 +35,7 @@
   uid: "colombia-4"
 
 - name: "Felipe Lesmes"
+  country: "Colombia"
   organization: "PNUD"
   position: "Especialista en Incidencia para Política Ambiental"
   bio: "Economista y magíster en Política Social y Desarrollo. Interés y experiencia en desarrollo sostenible, posconflicto y superación de la pobreza."
@@ -39,6 +44,7 @@
   uid: "colombia-5"
 
 - name: "Jenny Moreno"
+  country: "Colombia"
   organization: "Concejo de Bogotá D.C."
   position: "Asesora"
   bio: "Ingeniera Industrial, estudiante de maestría en políticas públicas de la Universidad de Los Andes, asesora en el Concejo de Bogotá."
@@ -47,6 +53,7 @@
   uid: "colombia-6"
 
 - name: "Juan Camilo Rave"
+  country: "Colombia"
   organization: "Fundación Universitaria del Área Andina"
   position: "Coordinador del Centro de Investigaciones Socio-Jurídicas"
   bio: "Abogado y Magíster en Gestión Pública, capacitado para la generación e implementación de estrategias públicas para la protección y defensa de los derechos humanos. Interesado en la formulación y evaluación de políticas públicas, en especial las de género y diversidad sexual."
@@ -55,6 +62,7 @@
   uid: "colombia-7"
 
 - name: "Juan Carlos Rodríguez"
+  country: "Colombia"
   organization: "Seamos Democracia Digital / Combo 2600 "
   position: "Director Administrativo / Coordinador de Comunicaciones"
   bio: "Economista apasionado por el desarrollo económico y las transformaciones sociales para construir un mejor país, con el propósito de lograr un gobierno más abierto a la ciudadanía."
