@@ -2,6 +2,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="keywords" content="{{ site.keywords }}">
+
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon.ico">
@@ -11,6 +13,8 @@
   <meta property="og:url" content="http://{{ site.basedomain }}" />
   <meta property="og:image" content="http://{{ site.basedomain }}/img/og-img.png" />
   <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:keywords" content="{{ site.keywords }}" />
+
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />

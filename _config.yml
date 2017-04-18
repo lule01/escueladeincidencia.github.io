@@ -8,7 +8,8 @@
 # Site settings
 title: Escuela de Incidencia
 email: hola@escueladeincidencia.org
-description: La Escuela de Incidencia es una iniciativa de Ciudadano Inteligente, realizada con el apoyo de National Endowment for Democracy, que busca fomentar el liderazgo colaborativo y participativo de nuevas generaciones para lograr cambios sociales a través de procesos de incidencia en el ámbito gubernamental
+description: Entregamos herramientas para cambiar el mundo. Conoce La Escuela de Incidencia de Ciudadano Inteligente
+keywords: incidencia, sociedad civil, capacitación, organización, activismo, liderazgo, jóvenes, latinoamérica, democracia, medioambiente, diversidad sexual, género, transparencia
 baseurl: '//escueladeincidencia.org' #"//ciudadanointeligente/escueladeincidencia.github.io"
 basedomain: escueladeincidencia.org
 twitter_username: ciudadanoi
