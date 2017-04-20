@@ -3,22 +3,23 @@ layout: default
 ---
 <section class="profiles">
     <div class="grid">
-      {% assign sorted = site.data.todos.participantes | shuffle  %}
-      {% for member in sorted %}
+      {% for p in site.data.participantes[2017] %}
+        {% for e in p.equipo %}
         <div class="grid-item">
           <div class="perfil">
-            <img src="{{ site.baseurl }}{{ member.image }}" alt="{{ member.name }} - {{ member.organization }}" class="img-bio">
+            <img src="{{ site.baseurl }}{{ e.image }}" alt="{{ e.name }} - {{ e.organization }}" class="img-bio">
             <div class="perfil-info">
-              <h4>{{ member.country }}</h4>
-              <h3>{{ member.name }}</h3>
+              <h4>{{ e.country }}</h4>
+              <h3>{{ e.name }}</h3>
               <div class="persona-org">
-                <h4>{{ member.organization }} - {{ member.position }}</h4>
+                <h4>{{ e.organization }} - {{ e.position }}</h4>
               </div>
-              <p class="bio">{{ member.bio }}</p>
+              <p class="bio">{{ e.bio }}</p>
             </div>
           </div>
         </div>
         {% endfor %}
+      {% endfor %}
     </div>
 </section>
 <script>
