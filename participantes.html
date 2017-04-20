@@ -7,7 +7,7 @@ layout: default
       {% for member in sorted %}
         <div class="grid-item">
           <div class="perfil">
-            <img src="{{ site.baseurl }}{{ member.image }}" alt="..." class="img-bio">
+            <img src="{{ site.baseurl }}{{ member.image }}" alt="{{ member.name }} - {{ member.organization }}" class="img-bio">
             <div class="perfil-info">
               <h4>{{ member.country }}</h4>
               <h3>{{ member.name }}</h3>
