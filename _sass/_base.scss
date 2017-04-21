@@ -57,7 +57,7 @@ mark {
   }
 }
 
-.navbar-default{
+.navbar-sub{
   background-color: black;
   border: none;
   padding: 20px 15px 20px 15px;
@@ -70,7 +70,7 @@ mark {
       font-size: 14px;
     }
   }
-  .navbar-nav>li>a{
+  .navbar-nav>li.nav-item{
     font-family: 'Montserrat Alternates', sans-serif;
     color: white;
     text-transform: uppercase;
@@ -90,6 +90,10 @@ mark {
 
 .navbar{
   border-radius: 0;
+}
+
+li.nav-item.rrss{
+  margin-top: -10px;
 }
 
 .jumbotron{
@@ -174,7 +178,6 @@ p.bio{
     }
 }
 
-
 .fa-stack{
   color: white;
 }
@@ -182,15 +185,6 @@ p.bio{
 i.fa.fa-circle.fa-stack-2x.fa-inverse{
   color: black;
 }
-
-ul.list-unstyled.list-inline.navbar-right{
-  margin-top: 10px;
-}
-
-li.rrss{
-  margin-left: -12px;
-}
-
 
 @media (max-width: 1000px) {
   .card-columns{
