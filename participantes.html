@@ -6,7 +6,9 @@ layout: default
     <div class="grid">
       {% for p in site.data.participantes[2017] %}
         {% for e in p.equipo %}
-        <div class="grid-item">
+        <div class="grid-sizer col-xs-12 col-sm-6 col-md-3"></div>
+        <div class="grid-item col-xs-12 col-sm-6 col-md-3">
+          <div class="grid-item-content">
           <div class="perfil">
             <img src="{{ site.baseurl }}{{ e.image }}" alt="{{ e.name }} - {{ e.organization }}" class="img-bio">
             <div class="perfil-info">
@@ -18,6 +20,7 @@ layout: default
               <p class="bio">{{ e.bio }}</p>
             </div>
           </div>
+          </div>
         </div>
         {% endfor %}
       {% endfor %}
@@ -28,8 +31,9 @@ layout: default
 <script>
   $(function() {
     $('.grid').masonry({
-      // options
-      itemSelector: '.grid-item',
+      itemSelector: '.grid-item', // use a separate class for itemSelector, other than .col-
+      columnWidth: '.grid-sizer',
+      percentPosition: true
     });
   });
 </script>

@@ -182,20 +182,15 @@ li.rrss{
   margin-left: -12px;
 }
 
-.grid-item {
-  width: 25%;
+.grid{
+  height: 5000px;
+}
+
+.grid-item{
   padding: 0 5px;
 }
 
-@media (max-width: 991px) {
-  .grid-item {
-    width: 50%;
-    padding: 0 5px;
-  }
-}
-@media (max-width: 540px) {
-  .grid-item {
-    width: 100%;
-    padding: 0 5px;
-  }
+.grid-item-content{
+  margin-top: 20px;
+  display: inline-block;
 }
