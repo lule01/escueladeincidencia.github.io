@@ -1,14 +1,6 @@
 2017:
   - pais: Bolivia
     equipo:
-    - name: "Raisa Valda"
-      country: "Bolivia"
-      organization: "Cuántas Más"
-      position: "Co-Responsable Nacional"
-      bio: "Social Media Strategist y Fellow de Escuela de Datos 2016. Apasionada por el impacto de las nuevas tecnologías y las redes sociales en el campo social."
-      image: "/assets/img/personas/b-raisa-valda.png"
-      tags: "Datos Abiertos, Género"
-      uid: "bolivia-8"
     - name: "Adri Chi"
       country: "Bolivia"
       organization: "Consultoría en Juventudes"
@@ -65,6 +57,14 @@
       image: "/assets/img/personas/b-marvin-velasco.png"
       tags: "DDHH, Sustentabilidad"
       uid: "bolivia-7"
+    - name: "Raisa Valda"
+      country: "Bolivia"
+      organization: "Cuántas Más"
+      position: "Co-Responsable Nacional"
+      bio: "Social Media Strategist y Fellow de Escuela de Datos 2016. Apasionada por el impacto de las nuevas tecnologías y las redes sociales en el campo social."
+      image: "/assets/img/personas/b-raisa-valda.png"
+      tags: "Datos Abiertos, Género"
+      uid: "bolivia-8"
   - pais: Colombia
     equipo:
     - name: "Bibiana Quintero"
