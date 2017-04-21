@@ -1,27 +1,27 @@
 ---
 layout: default
 ---
+<section class="">
+</section>
+
 <section class="profiles">
   <div class="container">
-    <div class="grid">
+    <div class="card-columns">
       {% for p in site.data.participantes[2017] %}
         {% for e in p.equipo %}
-        <div class="grid-sizer col-xs-12 col-sm-6 col-md-3"></div>
-        <div class="grid-item col-xs-12 col-sm-6 col-md-3">
-          <div class="grid-item-content">
-          <div class="perfil">
-            <img src="{{ site.baseurl }}{{ e.image }}" alt="{{ e.name }} - {{ e.organization }}" class="img-bio">
-            <div class="perfil-info">
-              <h4>{{ e.country }}</h4>
-              <h3>{{ e.name }}</h3>
-              <div class="persona-org">
-                <h4>{{ e.organization }} - {{ e.position }}</h4>
+          <div class="card">
+            <img src="{{ site.baseurl }}{{ e.image }}" alt="{{ e.name }} - {{ e.organization }}" class="card-img-top img-fluid">
+              <div class="card-block">
+                <div class="perfil-info">
+                  <h4>{{ e.country }}</h4>
+                  <h3>{{ e.name }}</h3>
+                  <div class="persona-org">
+                    <h4>{{ e.organization }} - {{ e.position }}</h4>
+                  </div>
+                  <p class="bio">{{ e.bio }}</p>
+                </div>
               </div>
-              <p class="bio">{{ e.bio }}</p>
-            </div>
           </div>
-          </div>
-        </div>
         {% endfor %}
       {% endfor %}
     </div>
