@@ -127,9 +127,8 @@ p.highlight{
   font-size: 20px;
 }
 
-
-#countries{
-  background-image: url(../img/countries-2017.svg);
+section.filters{
+  margin-top: 60px;
 }
 
 .card-columns{
@@ -184,6 +183,10 @@ p.bio{
 
 i.fa.fa-circle.fa-stack-2x.fa-inverse{
   color: black;
+}
+
+.invisible{
+  visibility: hidden;
 }
 
 @media (max-width: 1000px) {
