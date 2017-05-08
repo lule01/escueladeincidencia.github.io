@@ -211,15 +211,13 @@ i.fa.fa-circle.fa-stack-2x.fa-inverse{
   top: 7px;
 }
 
+i.fa.fa-bars{
+  color: white;
+}
+
 @media (max-width: 1000px) {
   .card-columns{
     column-count: 3;
-  }
-}
-
-@media (max-width: 991px) {
-  .navbar-toggler{
-    border: solid 1px white;
   }
 }
 
