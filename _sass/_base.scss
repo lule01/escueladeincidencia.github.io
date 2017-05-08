@@ -207,9 +207,19 @@ i.fa.fa-circle.fa-stack-2x.fa-inverse{
   visibility: hidden;
 }
 
+.navbar-toggler-right{
+  top: 7px;
+}
+
 @media (max-width: 1000px) {
   .card-columns{
     column-count: 3;
+  }
+}
+
+@media (max-width: 991px) {
+  .navbar-toggler{
+    border: solid 1px white;
   }
 }
 
@@ -222,5 +232,24 @@ i.fa.fa-circle.fa-stack-2x.fa-inverse{
 @media (max-width: 575px) {
   .card-columns{
     column-count: 1;
+  }
+
+  .navbar-brand{
+    margin-right: 15rem;
+  }
+}
+
+@media (max-width: 450px) {
+  .navbar-brand{
+    margin-right: 10rem;
+  }
+}
+
+@media (max-width: 380px) {
+  .sub-brand{
+    visibility: hidden;
+  }
+  .navbar-brand{
+    margin-right: 6rem;
   }
 }
