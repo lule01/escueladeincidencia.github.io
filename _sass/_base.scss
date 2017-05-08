@@ -221,6 +221,21 @@ i.fa.fa-bars{
   }
 }
 
+@media (max-width: 991px) {
+  .navbar-sub .navbar-nav > li{
+    margin: 0;
+  }
+  li.nav-item.rrss{
+    margin-left: -8px;
+  }
+  .navbar-home .navbar-nav > li{
+    margin: 0 0 5px 0;
+  }
+  li.nav-item.rrss{
+    margin-bottom: 0px;
+  }
+}
+
 @media (max-width: 770px) {
   .card-columns{
     column-count: 2;
