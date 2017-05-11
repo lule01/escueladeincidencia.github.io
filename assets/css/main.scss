@@ -20,6 +20,4 @@ $red:              #EA5350;
 $blue:             #32AEC1;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base"
-;
+@import "base","contact";
