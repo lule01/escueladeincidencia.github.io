@@ -185,6 +185,21 @@ p.bio{
     font-size: 14px;
 }
 
+.badge-primary{
+  background-color: $blue;
+}
+.badge-danger{
+  background-color: $red;
+}
+.badge-warning{
+  background-color: $yellow;
+}
+
+.badge{
+  padding: 4px 10px 4px 10px;
+  border-radius: 30px;
+}
+
 .site-footer {
     background-color: black;
     color: white;
