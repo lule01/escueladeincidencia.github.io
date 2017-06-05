@@ -235,6 +235,26 @@ i.fa.fa-bars{
   color: white;
 }
 
+p.bajada{
+  font-weight: 700;
+  margin: 40px 0 5px 0;
+}
+
+.btn-primary{
+  color: white;
+  background-color: black;
+  border: 3px solid black;
+  border-radius: 20px;
+  font-weight: 700;
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin-bottom: 10px;
+  &:hover{
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+  }
+}
+
 @media (max-width: 1000px) {
   .card-columns{
     column-count: 3;
