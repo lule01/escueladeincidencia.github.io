@@ -255,6 +255,36 @@ p.bajada{
   }
 }
 
+.btn-warning{
+  color: white;
+  background-color: $yellow;
+  border: 3px solid $yellow;
+  border-radius: 20px;
+  font-weight: 700;
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin-bottom: 10px;
+  &:hover{
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+  }
+}
+
+.btn-danger{
+  color: white;
+  background-color: $red;
+  border: 3px solid $red;
+  border-radius: 20px;
+  font-weight: 700;
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin-bottom: 10px;
+  &:hover{
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+  }
+}
+
 .is-checked{
   background-color: white;
   color: black;
