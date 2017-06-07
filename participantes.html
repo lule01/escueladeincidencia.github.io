@@ -4,32 +4,33 @@ layout: default
 <section class="filters">
   <div class="container">
     <h2 class="text-center">Participantes Escuela de Incidencia 2017</h2>
-    <div>
+    <div class="button-group filters-button-group">
       <p class="bajada">Filtrar por país</p>
-      <button type="button" class="btn btn-primary btn-sm">Bolivia</button>
-      <button type="button" class="btn btn-primary btn-sm">Colombia</button>
-      <button type="button" class="btn btn-primary btn-sm">Ecuador</button>
-      <button type="button" class="btn btn-primary btn-sm">Perú</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="todo"> Todos </button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Bolivia"> Bolivia</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Colombia">Colombia</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Ecuador">Ecuador</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Perú">Perú</button>
     </div>
-    <div>
+    <div class="button-group filters-button-group">
       <p class="bajada">Filtrar por área de trabajo</p>
-      <button type="button" class="btn btn-primary btn-sm">Ciudad</button>
-      <button type="button" class="btn btn-primary btn-sm">Comunicaciones</button>
-      <button type="button" class="btn btn-primary btn-sm">Democracia</button>
-      <button type="button" class="btn btn-primary btn-sm">Diversidad Sexual</button>
-      <button type="button" class="btn btn-primary btn-sm">DDHH</button>
-      <button type="button" class="btn btn-primary btn-sm">Educación</button>
-      <button type="button" class="btn btn-primary btn-sm">Formación Ciudadana</button>
-      <button type="button" class="btn btn-primary btn-sm">Gobierno Abierto</button>
-      <button type="button" class="btn btn-primary btn-sm">Juventudes</button>
-      <button type="button" class="btn btn-primary btn-sm">Medio Ambiente</button>
-      <button type="button" class="btn btn-primary btn-sm">Participación Ciudadana</button>
-      <button type="button" class="btn btn-primary btn-sm">Política</button>
-      <button type="button" class="btn btn-primary btn-sm">Salud</button>
-      <button type="button" class="btn btn-primary btn-sm">Seguridad</button>
-      <button type="button" class="btn btn-primary btn-sm">Sustentabilidad</button>
-      <button type="button" class="btn btn-primary btn-sm">Transparencia</button>
-      <button type="button" class="btn btn-primary btn-sm">Transporte</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="todo"> Todos </button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Ciudad" > Ciudad</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Comunicaciones" > Comunicaciones</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Democracia" > Democracia</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Diversidad Sexual" > Diversidad Sexual</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="DDHH" > DDHH</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Educación" > Educación</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Formación Ciudadana" > Formación Ciudadana</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Gobierno Abierto" > Gobierno Abierto</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Juventudes" > Juventudes</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Medio Ambiente" > Medio Ambiente</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Participación Ciudadana" > Participación Ciudadana</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Política" > Política</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Salud" > Salud</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Seguridad" > Seguridad</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Sustentabilidad" > Sustentabilidad</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Transparencia" > Transparencia</button>
     </div>
   </div>
 </section>
@@ -39,7 +40,8 @@ layout: default
     <div class="card-columns">
       {% for p in site.data.participantes[2017] %}
         {% for e in p.equipo %}
-          <div class="card">
+          <div class="card grid-item {{ e.country }} {{ e.tag1 }} {{ e.tag2 }} {{ e.tag3 }} {{ e.tag4 }} {{ e.tag5 }} {{ e.tag6 }} {{ e.tag7 }} {{ e.tag7 }} {{ e.tag8 }} {{ e.tag9 }} {{ e.tag10 }}"
+            data-category="{{ e.country }}">
             <img src="{{ site.baseurl }}{{ e.image }}" alt="{{ e.name }} - {{ e.organization }}" class="card-img-top img-fluid">
               <div class="card-block">
                 <div class="perfil-info">
@@ -69,11 +71,64 @@ layout: default
 </section>
 
 <script>
-  $(function() {
-    $('.grid').masonry({
-      itemSelector: '.grid-item', // use a separate class for itemSelector, other than .col-
-      columnWidth: '.grid-sizer',
-      percentPosition: true
+  $( document ).ready( function() {
+    var filters = []
+    $('.filters-button-group').on( 'click', 'button', function() {
+      var filterValue = $( this ).attr('data-filter');
+      index = filters.indexOf(filterValue)
+      if (index > -1) {
+        filters.splice(index, 1);
+      } else {
+        filters.push(filterValue)
+      }
+      if (filterValue == 'todo') {
+        filters = [];
+        $('.grid-item').each( function( i,  GridItem) {
+            // console.log($( this ))
+            $( this ).addClass('is-visible');
+            $( this ).show();
+        });
+        // $('button').each( function( i,  GridItem) {
+        //     // console.log($( this ))
+        //     $( this ).removeClass('is-checked');
+        // });
+      }else {
+        $('.grid-item').each( function( i,  GridItem) {
+          var participante = $( this );
+          counter = 0;
+          filters.forEach(function(element) {
+              if (!participante.hasClass(element)) {
+                counter += 1;
+              }
+          });
+          if (counter == 0){
+            $( this ).addClass('is-visible');
+            $( this ).show();
+          } else {
+            $( this ).hide();
+          }
+        });
+      }
     });
+
+    $('.button-group').each( function( i, buttonGroup ) {
+      var $buttonGroup = $( buttonGroup );
+      $buttonGroup.on( 'click', 'button', function() {
+        if ($( this ).hasClass('is-checked')) {
+          // $buttonGroup.find('.is-checked').removeClass('is-checked');
+            $( this ).removeClass('is-checked');
+        } else {
+          $( this ).addClass('is-checked');
+        }
+        var filterValue = $( this ).attr('data-filter');
+        if (filterValue == 'todo') {
+          $('button').each( function( i,  GridItem) {
+              // console.log($( this ))
+              $( this ).removeClass('is-checked');
+          });
+        }
+      });
+    });
+
   });
 </script>
