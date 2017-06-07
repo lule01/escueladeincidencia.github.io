@@ -255,6 +255,11 @@ p.bajada{
   }
 }
 
+.is-checked{
+  background-color: white;
+  color: black;
+}
+
 @media (max-width: 1000px) {
   .card-columns{
     column-count: 3;
