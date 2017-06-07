@@ -181,17 +181,18 @@ select#entry_1107952375{
 }
 
 .jfk-button.jfk-button-action{
-  background-color: $red;
+  background-color: $blue;
   color: white;
   border-radius: 20px;
   border: none;
   width: 100px;
   font-family: 'Karla', sans-serif;
+  font-weight: 700;
   &:hover{
     background-color: black;
   }
 }
- 
+
 
 
 @media screen and (-webkit-device-pixel-ratio: 2) {
