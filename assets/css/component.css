@@ -71,7 +71,7 @@
 	width: 100%;
 	top: 50%;
 	height: 1px;
-	background: black;
+	background: white;
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	transform: rotate(45deg);
@@ -85,7 +85,7 @@
 
 .og-close:hover::before,
 .og-close:hover::after {
-	background: #333;
+	background: white;
 }
 
 .og-fullimg{
@@ -139,7 +139,7 @@
 }
 
 .og-details label{
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat Alternates', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-size: 11px;
