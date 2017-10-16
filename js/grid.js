@@ -190,8 +190,13 @@ var Grid = (function() {
 		// support for csstransitions
 		support = Modernizr.csstransitions,
 		// default settings
-		settings = {
-			minHeight : 560,
+    resolution_minHeight_val = 670;
+
+    if (screen.width <= 425)
+      var resolution_minHeight_val = 1000;
+
+		var settings = {
+			minHeight : resolution_minHeight_val,
 			speed : 350,
 			easing : 'ease'
 		};

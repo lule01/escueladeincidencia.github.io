@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../assets/img/casos/19-min.jpg
-imagemax: ../assets/img/casos/19-max.jpg
+imagemin: ../img/19-min.jpg
+imagemax: ../img/19-max.jpg
 title: Reciclaje inclusivo en Quito
 country: Ecuador
 city: Quito

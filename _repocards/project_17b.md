@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../assets/img/casos/default-min.jpg
-imagemax: ../assets/img/casos/default-max.jpg
+imagemin: ../img/default-min.jpg
+imagemax: ../img/default-max.jpg
 title: Labcivico contra la violencia de género
 country: Perú
 city:
@@ -14,4 +14,4 @@ person: ../img/17b-person.jpg
 ribbon: true
 ---
 
-El Lab Civico se realizó con la participación de 14 personas, quienes forman parte tanto de organizaciones no gubernamentales como de colectivos e instituciones más formales comprometidos con temas de género y lucha contra la violencia de género. Parte de las reflexiones estuvieron en torno a temas de cultura machista en Cajamarca, violencia contra la mujer que trasciende al espacio individual o el de la pareja, y se presentan en el ámbito social, como por ejemplo en las organizaciones de vecinos autoconvocadas, llamadas rondas campesinas. Se discutió acerca de la prácticas violentas de estas organizaciones y cómo estas prácticas no son basadas en algo cultural sino que es netamente el machismo el que las promueve.  Parte de las propuestas de solución pasaron por determinar la necesidad de colocar el tema en agenda pública, generar un proceso de incidencia y debate, emplazar a las autoridades a que cumplan con su rol y regulen la actuación de estas organizaciones, emplazar a las propias rondas y no solo cuestionarlas sino proponerles apoyo para fortalecer y mejorar su trabajo incorporando la mirada de género.                             
+El Laboratorio se realizó con la participación de 14 personas, quienes forman parte tanto de organizaciones no gubernamentales como de colectivos e instituciones formales comprometidas con temas de género. Parte de las reflexiones estuvieron centradas en temas de cultura machista en Cajamarca y violencia contra la mujer que trasciende el espacio individual o el de la pareja y se presentan en el ámbito social, ejemplificado esto en las organizaciones de vecinos autoconvocadas, llamadas rondas campesinas y sus ajusticiamientos. Parte de las propuestas para reducir el problema pasaron por vislumbrar la necesidad de poner el tema en agenda pública, hacer un llamado a las autoridades a que cumplan con su rol y regulen la actuación de estas organizaciones y finalmente emplazar a las propias rondas, no sólo cuestionando su accionar, sino proponiendoles apoyo para fortalecer y mejorar su trabajo incorporando la mirada de género.

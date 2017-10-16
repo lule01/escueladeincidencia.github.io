@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../assets/img/casos/08-min.jpg
-imagemax: ../assets/img/casos/08-max.jpg
+imagemin: ../img/08-min.jpg
+imagemax: ../img/08-max.jpg
 title: Recuperación de Espacios Públicos
 country: Perú
 city: Lima
@@ -10,7 +10,7 @@ period: 24 y 25 de junio 2017
 problem: Precariedad de un marco legal urbanístico contribuye a generar políticas deficientes en torno a los espacios públicos en Barranco
 facilitator: Proyecto guiado por Andrés Devoto
 occupation: Promotor / Asistente de Investigación - Colectivo DespiertaLima / Contribuyentes por Respeto
-person: ../img/casos/08-person.jpg
+person: ../img/08-person.jpg
 ribbon: true
 ---
 

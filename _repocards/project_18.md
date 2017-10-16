@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../assets/img/casos/18-min.jpg
-imagemax: ../assets/img/casos/18-max.jpg
+imagemin: ../img/18-min.jpg
+imagemax: ../img/18-max.jpg
 title: LabCivico Pastaza
 country: Ecuador
 city:
