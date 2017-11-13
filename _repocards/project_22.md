@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../img/22-min.jpg
-imagemax: ../img/22-max.jpg
+imagemin: ../assets/img/casos/22-min.jpg
+imagemax: ../assets/img/casos/22-max.jpg
 title: Laboratorio Cívico con Organizaciones LGBTI en Quito-Ecuador
 country: Ecuador
 city: Quito

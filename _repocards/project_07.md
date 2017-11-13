@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../img/07-min.jpg
-imagemax: ../img/07-max.jpg
+imagemin: ../assets/img/casos/07-min.jpg
+imagemax: ../assets/img/casos/07-max.jpg
 title: La Naturalización de la violencia en el marco del conflicto armado interno
 country: Colombia
 city: Cúcuta

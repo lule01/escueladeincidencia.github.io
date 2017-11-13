@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../img/09-min.jpg
-imagemax: ../img/09-max.jpg
+imagemin: ../assets/img/casos/09-min.jpg
+imagemax: ../assets/img/casos/09-max.jpg
 title: LabCívico Ambato
 country: Ecuador
 city: Ambato

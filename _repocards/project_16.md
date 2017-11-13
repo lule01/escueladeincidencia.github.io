@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../img/16-min.jpg
-imagemax: ../img/16-max.jpg
+imagemin: ../assets/img/casos/16-min.jpg
+imagemax: ../assets/img/casos/16-max.jpg
 title: Desafíos para la implementación de Gobierno Abierto como modelo de Gestión Pública en ámbitos locales
 country: Bolivia
 city: Santa Cruz de la Sierra
