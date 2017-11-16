@@ -1,7 +1,7 @@
 ---
 layout: card
 imagemin: ../assets/img/casos/20-min.jpg
-imagemin: ../assets/img/casos/20-max.jpg
+imagemax: ../assets/img/casos/20-max.jpg
 title: Crisis del Agua; El rol de la Sociedad
 country: Bolivia
 city: La Paz

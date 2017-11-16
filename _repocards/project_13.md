@@ -1,7 +1,7 @@
 ---
 layout: card
 imagemin: ../assets/img/casos/13-min.jpg
-imagemin: ../assets/img/casos/13-max.jpg
+imagemax: ../assets/img/casos/13-max.jpg
 title: Ingenieros por el cambio social
 country: Perú
 city:

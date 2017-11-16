@@ -1,7 +1,7 @@
 ---
 layout: card
 imagemin: ../assets/img/casos/10-min.jpg
-imagemin: ../assets/img/casos/10-max.jpg
+imagemax: ../assets/img/casos/10-max.jpg
 title: Fuerza comunitaria
 country: Perú
 city: Chiclayo
