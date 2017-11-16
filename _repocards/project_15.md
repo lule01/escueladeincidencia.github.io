@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../img/15-min.jpg
-imagemax: ../img/15-max.jpg
+imagemin: ../assets/img/casos/15-min.jpg
+imagemin: ../assets/img/casos/15-max.jpg
 title: Lab Cívico Gobierno Abierto en La Paz
 country: Bolivia
 city: La Paz

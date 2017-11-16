@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../img/08-min.jpg
-imagemax: ../img/08-max.jpg
+imagemin: ../assets/img/casos/08-min.jpg
+imagemin: ../assets/img/casos/08-max.jpg
 title: Recuperación de Espacios Públicos
 country: Perú
 city: Lima

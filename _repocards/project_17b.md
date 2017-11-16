@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../img/default-min.jpg
-imagemax: ../img/default-max.jpg
+imagemin: ../assets/img/casos/17b-min.jpg
+imagemin: ../assets/img/casos/17b-max.jpg
 title: Labcivico contra la violencia de género
 country: Perú
 city:
