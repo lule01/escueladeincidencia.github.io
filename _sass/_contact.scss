@@ -38,6 +38,7 @@
 
 .ss-choices {
   font-size: 1.000rem;
+  padding: 10px 0;
 }
 
 .ss-record-username-message {
@@ -158,6 +159,13 @@ input[type='text'], input:not([type]), textarea {
   font-family: 'Karla', sans-serif;
 }
 
+input#entry_512354785{
+  font-size: 1.000rem;
+  width: 600px;
+  border: 2px solid black;
+  font-family: 'Karla', sans-serif;
+}
+
 select#entry_1107952375{
   width: 600px;
   border: 2px solid black;
@@ -193,7 +201,9 @@ select#entry_1107952375{
   }
 }
 
-
+.ss-form-desc, .ss-page-description, .ss-section-description{
+  color: black;
+}
 
 @media screen and (-webkit-device-pixel-ratio: 2) {
 .ss-logo-image {
@@ -207,6 +217,10 @@ select#entry_1107952375{
   }
 
   input[type='text'], input:not([type]), textarea {
+    width: 260px;
+  }
+
+  input#entry_512354785{
     width: 260px;
   }
 
