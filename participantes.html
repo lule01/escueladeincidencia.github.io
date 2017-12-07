@@ -3,7 +3,12 @@ layout: default
 ---
 <section class="filters">
   <div class="container">
-    <h2 class="text-center">Participantes Escuela de Incidencia 2017</h2>
+    <h2 class="text-center">Participantes Escuela de Incidencia</h2>
+    <div class="button-group filters-button-group text-center">
+      <p class="bajada">Filtrar por año</p>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="2017"> 2017 </button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="2018"> 2018 </button>
+    </div>
     <div class="button-group filters-button-group text-center">
       <p class="bajada">Filtrar por país</p>
       <button type="button" class="btn btn-primary btn-sm" data-filter="Bolivia"> Bolivia</button>
@@ -42,9 +47,10 @@ layout: default
 
     </div>
     <div class="card-columns">
-      {% for p in site.data.participantes[2017] %}
+      {% assign participantes = site.data.participantes[2017] | concat: site.data.participantes[2018]  %}
+      {% for p in participantes %}
         {% for e in p.equipo %}
-          <div class="card grid-item {{ e.country }} {{ e.tag1 }} {{ e.tag2 }} {{ e.tag3 }} {{ e.tag4 }} {{ e.tag5 }} {{ e.tag6 }} {{ e.tag7 }} {{ e.tag7 }} {{ e.tag8 }} {{ e.tag9 }} {{ e.tag10 }}"
+          <div class="card grid-item {{ e.country }} {{ e.tag0 }} {{ e.tag1 }} {{ e.tag2 }} {{ e.tag3 }} {{ e.tag4 }} {{ e.tag5 }} {{ e.tag6 }} {{ e.tag7 }} {{ e.tag7 }} {{ e.tag8 }} {{ e.tag9 }} {{ e.tag10 }}"
             data-category="{{ e.country }}">
             <img src="{{ site.baseurl }}{{ e.image }}" alt="{{ e.name }} - {{ e.organization }}" class="card-img-top img-fluid">
               <div class="card-block">
@@ -65,6 +71,7 @@ layout: default
                   <span class="badge badge-danger">{{ e.tag8 }}</span>
                   <span class="badge badge-warning">{{ e.tag9 }}</span>
                   <span class="badge badge-primary">{{ e.tag10 }}</span>
+                  <span class="badge badge-danger">{{ e.tag0 }}</span>
                 </div>
               </div>
           </div>
