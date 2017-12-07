@@ -348,6 +348,12 @@ p.bajada{
 .btn.focus, .btn:focus{
   box-shadow: none;
 }
+
+section.newsletter{
+  background-color: $yellow;
+  color: white;
+  padding: 20px 15px 1px;
+}
 @media (max-width: 1000px) {
   .card-columns{
     column-count: 3;
