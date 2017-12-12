@@ -361,31 +361,34 @@ section.escuela-2018{
   font-size: 20px;
   background-color: $blue;
   border-radius: 0;
-  margin-bottom: 10px;
+  margin: 30px 0 6px;
   color: white;
-  padding: 5px 11px;
+  padding: 16px 11px;
   font-family: 'Montserrat Alternates', sans-serif;
   line-height: 1;
+  min-height: 50px;
 }
 .badge-red{
   font-size: 20px;
   background-color: $red;
   border-radius: 0;
-  margin-bottom: 10px;
+  margin: 30px 0 6px;
   color: white;
-  padding: 5px 11px;
+  padding: 16px 11px;
   font-family: 'Montserrat Alternates', sans-serif;
   line-height: 1;
+  min-height: 50px;
 }
 .badge-yellow{
   font-size: 20px;
   background-color: $yellow;
   border-radius: 0;
-  margin-bottom: 10px;
+  margin: 30px 0 6px;
   color: white;
-  padding: 5px 11px;
+  padding: 16px 11px;
   font-family: 'Montserrat Alternates', sans-serif;
   line-height: 1;
+  min-height: 50px;
 }
 #accordion{
   .card{
@@ -395,6 +398,12 @@ section.escuela-2018{
     background-color: black;
     a{
       color: white;
+      &:hover{
+        text-decoration: none;
+      }
+      &:focus{
+        text-decoration: none;
+      }
     }
   }
   .card-header:first-child{
