@@ -150,6 +150,10 @@ section.cases{
   margin-top: 60px;
 }
 
+.legend{
+  margin-top: 330px;
+}
+
 .card-columns{
   column-count: 4;
 }
@@ -449,6 +453,12 @@ i.fa.fa-bars{
 @media (max-width: 770px) {
   .card-columns{
     column-count: 2;
+  }
+}
+
+@media (max-width: 770px) {
+  .legend{
+    margin-top: 0px;
   }
 }
 
