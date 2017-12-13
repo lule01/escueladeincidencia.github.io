@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../assets/img/casos/07-min.jpg
 imagemax: ../assets/img/casos/07-max.jpg
-title: Semillero Cívico: una cartilla fuera del planeta
+title: "Semillero Cívico: una cartilla fuera del planeta"
 country: Colombia
 city: Cúcuta
 theme: Legitimación de los DDHH en el marco del conflicto armado Colombiano
