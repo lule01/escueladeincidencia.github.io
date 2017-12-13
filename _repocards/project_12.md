@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../assets/img/casos/12-min.jpg
 imagemax: ../assets/img/casos/12-max.jpg
-title: Jóvenes y Ambiente: Legitimemos la participación
+title: "Jóvenes y Ambiente: Legitimemos la participación"
 country: Perú
 city:
 theme: La participación de las juventudes peruanas en la toma de decisiones en el sector ambiental
