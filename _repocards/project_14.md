@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../assets/img/casos/14-min.jpg
 imagemax: ../assets/img/casos/14-max.jpg
-title: Nutriendo la ciudadanía
+title: Nutriedúcate Perú
 country: Perú
 city:
 theme: Ciudadanía y Nutrición
