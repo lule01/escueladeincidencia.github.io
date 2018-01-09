@@ -1,12 +1,12 @@
 ---
 layout: card
-imagemin: ../assets/img/casos/default-min.jpg
-imagemax: ../assets/img/casos/default-max.jpg
+imagemin: ../assets/img/casos/18c-min.jpg
+imagemax: ../assets/img/casos/18c-max.jpg
 title: Visibilizando la violencia de género por armas de fuego para promover políticas públicas efectivas para su control
 country: Bolivia  
 city: La Paz
-theme: Impacto de las armas de fuego en la violencia contra la Mujer. 
-period: Agosto de 2017 hasta Noviembre de 2017. 
+theme: Impacto de las armas de fuego en la violencia contra la Mujer.
+period: Agosto de 2017 hasta Noviembre de 2017.
 problem: La invisibilización del impacto de las armas de fuego en la violencia intrafamiliar y contra la mujer, producida por la ausencia de desagregación de violencia armada contra la mujer en las estadísticas de seguridad ciudadana del área metropolitana de La Paz.
 facilitator: Lucía Centellas
 occupation: Fundadora y Directora Ejecutiva - Esfuerzos de Mujeres Bolivianas
