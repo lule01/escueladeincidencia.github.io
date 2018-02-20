@@ -33,7 +33,7 @@ mark {
   background-color: transparent;
   border: none;
   position: absolute;
-  top: 0;
+  top: -3px;
   width: 100%;
   .navbar-nav>li>mark>a{
     font-family: 'Montserrat Alternates', sans-serif;
@@ -62,7 +62,7 @@ mark {
   border: none;
   padding: 20px 15px 20px 15px;
   min-height: 110px;
-  top: 0;
+  top: 0px;
   .sub-brand{
     a{
       color: white;
@@ -107,6 +107,10 @@ li.nav-item.rrss{
   width: 100%;
 }
 
+h1{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
 h2{
   font-family: 'Montserrat Alternates', sans-serif;
 }
@@ -127,6 +131,15 @@ h4{
   font-size: 20px;
 }
 
+.welcome{
+  margin-top: 120px;
+}
+.w-100{
+  height: 100%;
+}
+.about{
+  margin-top: -160px;
+}
 section.filters{
   margin-top: 60px;
 }
@@ -143,10 +156,28 @@ section.cases{
   margin-top: 60px;
 }
 
-section.escuela-2018{
-  margin-top: 60px;
-  margin-bottom: 300px;
+.welcome-text{
+  position: relative;
+  top: -310px;
 }
+
+.welcome-black{
+  background-color: black;
+  color: white;
+  padding: 5px 10px 0;
+  margin-bottom: 5px;
+  width: fit-content;
+}
+.welcome-white{
+  background-color: white;
+  color: black;
+  padding: 5px 10px;
+}
+
+.legend{
+  margin-top: 330px;
+}
+
 .card-columns{
   column-count: 4;
 }
@@ -348,6 +379,95 @@ p.bajada{
 .btn.focus, .btn:focus{
   box-shadow: none;
 }
+
+section.newsletter{
+  background-color: $yellow;
+  color: white;
+  padding: 20px 15px 1px;
+}
+
+section.escuela-2018{
+  background-color: $red;
+  color: white;
+  padding: 20px 15px 20px;
+}
+
+.badge-blue{
+  font-size: 20px;
+  background-color: $blue;
+  border-radius: 0;
+  margin: 30px 0 6px;
+  color: white;
+  padding: 16px 11px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  line-height: 1;
+  min-height: 50px;
+}
+.badge-red{
+  font-size: 20px;
+  background-color: $red;
+  border-radius: 0;
+  margin: 30px 0 6px;
+  color: white;
+  padding: 16px 11px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  line-height: 1;
+  min-height: 50px;
+}
+.badge-yellow{
+  font-size: 20px;
+  background-color: $yellow;
+  border-radius: 0;
+  margin: 30px 0 6px;
+  color: white;
+  padding: 16px 11px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  line-height: 1;
+  min-height: 50px;
+}
+#accordion{
+  .card{
+    margin-bottom: 5px;
+  }
+  .card-header{
+    background-color: black;
+    a{
+      color: white;
+      &:hover{
+        text-decoration: none;
+      }
+      &:focus{
+        text-decoration: none;
+      }
+    }
+  }
+  .card-header:first-child{
+    border-radius: 0;
+  }
+  .card-body{
+    padding: 15px;
+  }
+}
+
+i.fa.fa-bars{
+  color: black;
+}
+
+
+
+@media (max-width: 1199px) {
+  .welcome-black{
+    h1{
+      font-size: 40px;
+    }
+  }
+  .welcome-white{
+    h2{
+      font-size: 26px;
+    }
+  }
+}
+
 @media (max-width: 1000px) {
   .card-columns{
     column-count: 3;
@@ -367,11 +487,42 @@ p.bajada{
   li.nav-item.rrss{
     margin-bottom: 0px;
   }
+  .welcome-text{
+    top: -250px;
+  }
+  .welcome-black{
+    h1{
+      font-size: 29px;
+    }
+  }
+  .welcome-white{
+    h2{
+      font-size: 26px;
+    }
+  }
+}
+
+@media (max-width: 944px) {
+  .navbar-home{
+    top: 69px;
+  }
 }
 
 @media (max-width: 770px) {
   .card-columns{
     column-count: 2;
+  }
+}
+
+@media (max-width: 767px) {
+  .legend{
+    margin-top: 0px;
+  }
+  .welcome-text{
+    top: -130px;
+  }
+  .navbar-home{
+    top: 75px;
   }
 }
 
@@ -382,6 +533,27 @@ p.bajada{
 
   .navbar-brand{
     margin-right: 15rem;
+  }
+}
+
+@media (max-width: 533px) {
+  .navbar-home{
+    top: 86px;
+  }
+}
+
+@media (max-width: 490px) {
+  .welcome-text{
+    top: -80px;
+  }
+  .about{
+    margin-top: -90px;
+  }
+}
+
+@media (max-width: 477px) {
+  .navbar-home{
+    top: 108px;
   }
 }
 

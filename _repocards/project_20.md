@@ -2,11 +2,11 @@
 layout: card
 imagemin: ../assets/img/casos/20-min.jpg
 imagemax: ../assets/img/casos/20-max.jpg
-title: Crisis del Agua; El rol de la Sociedad
+title: EducAgua
 country: Bolivia
 city: La Paz
 theme: Promover acciones en favor del cuidado, uso responsable y la prevención de futuras crisis de agua.
-period: 25 y 26 de agosto 2017
+period: Agosto de 2017 hasta noviembre de 2017
 problem: Existen deficiencias en materia de Educación, Gestión, Participación y Control Social entorno a la corresponsabilidad del abastecimiento sostenible de agua en el área Metropolitana de La Paz.
 facilitator: Proyecto guiado por Carmen Capriles y Adrián Chambi
 occupation: Consultora Independiente - Consultoría Ambiental, Consultor Independiente - Consultoría en Juventudes
@@ -14,4 +14,4 @@ person: ../img/20-person.jpg
 ribbon: true
 ---
 
-El laboratorio contó con con un total de 23 participantes provenientes de instituciones y organizaciones que trabajan de manera directa y transversal el tema del Agua. En el transcurso de dos días se construyó una planificación con el objetivo de contribuir con alternativas prácticas y reales para fortalecer el plan integral Municipal de agua. Para ello se estableció una estrategia para el posicionamiento de una plataforma educativa sobre buenas prácticas de uso, cuidado y prevención de futuras crisis de agua, construyendo propuestas alternativas que mitiguen efectos adversos y posicionen a la Ciudad de La Paz como una administración pública y ciudadana corresponsable.. Al finalizar la implementación del proyecto se pretende obtener como resultado el fortalecimiento de la política pública municipal sobre agua, y que esto sirva de hito social, institucional y organizacional para otros municipios del estado plurinacional de Bolivia.
+El proyecto #EducAgua nace del laboratorio cívico con el objetivo de crear una cultura juvenil y municipal más conciente y activa respecto a buenas prácticas  para el acceso, disponibilidad y oferta de agua en la ciudad de La Paz. Como resultado de la implementación de este proyecto se conformó una plataforma con organizaciones y colectivos comprometidos con hacer seguimiento  y monitoreo a problemas relacionados con el uso del agua. Este grupo ha participado de diferentes instancias de difusión, llegando a cerca de 2000 personas incluyendo a autoridades del Concejo Municipal del Gobierno Municipal de La Paz, con quienes se logró el compromiso de seguir trabajando estas temáticas durante el año 2018. Esto enfocará el proyecto hacia la sensibilización y generación de espacios de reflexión sobre el tema.

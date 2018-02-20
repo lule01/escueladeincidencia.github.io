@@ -2,11 +2,11 @@
 layout: card
 imagemin: ../assets/img/casos/16-min.jpg
 imagemax: ../assets/img/casos/16-max.jpg
-title: Desafíos para la implementación de Gobierno Abierto como modelo de Gestión Pública en ámbitos locales
+title: Promoción de gobiernos abiertos a nivel local
 country: Bolivia
 city: Santa Cruz de la Sierra
 theme: Gobiernos Abiertos Locales
-period: 28 y 29 de julio 2017
+period: Julio de 2017 hasta noviembre de 2017
 problem: Hay poca participación ciudadana en la co-elaboración y fiscalización de políticas públicas a nivel local (Santa Cruz)
 facilitator: Proyecto guiado por Iván Pinto
 occupation: Presidente - Fundación Gobierno Abierto
@@ -14,4 +14,4 @@ person: ../img/16-person.jpg
 ribbon: true
 ---
 
-El laboratorio contó con la participación de 15 personas provenientes de diferentes sectores de la sociedad (Gobierno local, ONG, Sociedad civil, Hackers cívicos y ciudadanos). El trabajo realizado llevó a la reflexión sobre la importancia de promover el concepto, valores y beneficios de desarrollar un Modelo de Gobierno Abierto Local. De esta manera, luego de plantearnos el objetivo de incentivar que gobiernos del nivel local desarrollen acciones de Gobierno Abierto para fortalecer la transparencia y promover espacios de participación ciudadana en la co-elaboración y fiscalización de políticas públicas, se llegó a un comun acuerdo y se planteó la meta a corto plazo de crear una plataforma / observatorio de transparencia en Santa Cruz de la Sierra que genere alianzas intersectoriales para promover principios y acciones de Gobierno Abierto a nivel local. En este sentido, se plantea esta meta y las actividades para alcanzar la misma.                            
+En Santa Cruz de la Sierra, ante un contexto de poca participación ciudadana en la co-elaboración y fiscalización de políticas públicas locales, la Fundación Gobierno Abierto realizó un LabCivico que permitió crear una propuesta para enfrentar este problema: la Plataforma de Transparencia e Innovación dentro de Gobierno Abierto. El propósito de esta plataforma es facilitar el acceso de la ciudadanía a la información sobre avances y propuestas en temas de transparencia e innovación, además de fomentar su involucramiento en estos temas mediante procesos innovadores on-line y presenciales. Actualmente, la plataforma está conformada por representantes de 10 instituciones de la sociedad civil, además de miembros del gobierno local. De manera adicional, se publicó un artículo en la Revista Ideas y Debate sobre el Gobierno Abierto en Bolivia, sus avances y desafíos a futuro.                          

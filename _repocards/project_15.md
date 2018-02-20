@@ -2,11 +2,11 @@
 layout: card
 imagemin: ../assets/img/casos/15-min.jpg
 imagemax: ../assets/img/casos/15-max.jpg
-title: Lab Cívico Gobierno Abierto en La Paz
+title: Observatorio de Gobierno Abierto
 country: Bolivia
 city: La Paz
 theme: Desafíos para la implementación de Gobierno Abierto como modelo de Gestión Pública en ámbitos locales
-period: 27 y 28 de julio 2017
+period: Julio de 2017 hasta noviembre de 2017
 problem: Existe poca colaboración entre la ciudadanía y el Gobierno Autónomo Municipal de La Paz para la construcción conjunta de políticas públicas
 facilitator: Proyecto guiado por Atenas Vargas
 occupation: Directora de Economía - RESABIS
@@ -14,4 +14,4 @@ person: ../img/15-person.jpg
 ribbon: true
 ---
 
-El Lab Cívico fue desarrollado en la ciudad de La Paz y contó con la participación de jóvenes líderes provenientes de organizaciones estudiantiles y movimientos sociales y políticos. Además asistieron miembros del Gobierno Autónomo Municipal de la Paz, organizaciones políticas y activistas sociales. La principal solución planteada en el Lab Cívico Gobierno Abierto La Paz es la conformación de una “Red de organizaciones y actores que promuevan la temática de Gobierno Abierto”, la cual a través de un proceso investigativo realice la recopilación de normativa y de herramientas existentes que permitan este proceso de colaboración entre la ciudadanía y el Gobierno. Asimismo, se busca que esta Red pueda trabajar en el desarrollo de material educativo e informativo además de realizar la construcción de una plataforma web. Al finalizar este proceso, la Red se convertirá en el Primer Observatorio de Gobierno Abierto en La Paz.
+Ante la poca colaboración entre la ciudadanía y el Gobierno Autónomo Municipal de La Paz (GAMLP) para la construcción conjunta de políticas públicas, surge la necesidad de articular a organizaciones y activistas que promuevan el trabajo colaborativo. Tras el LabCívico Gobierno Abierto en La Paz se conformó el Observatorio de Gobierno Abierto La Paz, que desarrolla diversas herramientas educativas para incentivar y sensibilizar sobre temáticas de Gobierno Abierto. La capacitación de funcionarixs municipales,  quienes participaron de 3 talleres de formación y recibieron material informativo,  fue el principal foco del observatorio estos meses. Además, el equipo del observatorio fue invitado a sumarse al Concejo Ciudadano de Ética y Transparencia del GAMLP, logrando así instalar el tema en la agenda pública y llegar a más personas y organizaciones de la sociedad civil.
