@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="924px" height="1045px" viewBox="0 0 924 1045" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 35</title>
+    <title>Group 35 Copy</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-35" transform="translate(3.000000, 3.000000)">
+        <g id="Group-35-Copy" transform="translate(3.000000, 3.000000)">
             <path d="M433.675949,933.570819 C433.675949,934.603145 434.513566,935.438925 435.545892,935.438925 C436.576382,935.438925 437.413999,934.603145 437.413999,933.570819 C437.413999,932.538492 436.576382,931.700875 435.545892,931.700875 C434.513566,931.700875 433.675949,932.538492 433.675949,933.570819 Z" id="Stroke-201" stroke="#1D1D1B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></path>
             <path d="M426.143639,966.813935 C427.175966,966.813935 428.013583,965.976318 428.013583,964.943992 C428.013583,963.913502 427.175966,963.075885 426.143639,963.075885 C425.111313,963.075885 424.273695,963.913502 424.273695,964.943992 C424.273695,965.976318 425.111313,966.813935 426.143639,966.813935 Z" id="Stroke-203" stroke="#1D1D1B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></path>
             <path d="M424.890703,974.342755 C424.890703,974.928719 425.125824,975.457741 425.506058,975.847159 L425.502384,975.847159 C425.919356,976.242089 426.176519,976.796826 426.176519,977.414018 C426.176519,977.799763 426.075491,978.15428 425.89915,978.468387 L425.906498,978.468387 C425.69342,978.802699 425.568512,979.195791 425.568512,979.618274 C425.568512,980.810409 426.532874,981.772934 427.723172,981.772934 C428.911633,981.772934 429.875995,980.810409 429.875995,979.618274 C429.875995,979.045167 429.648222,978.52533 429.282683,978.137749 L429.288194,978.137749 C428.858364,977.740982 428.612222,977.17706 428.612222,976.545174 C428.612222,976.135549 428.709576,975.755315 428.90796,975.426514 L428.896938,975.426514 C429.0843,975.106897 429.200023,974.739521 429.200023,974.342755 C429.200023,973.152457 428.235661,972.188095 427.045363,972.188095 C425.855065,972.188095 424.890703,973.152457 424.890703,974.342755 Z" id="Stroke-205" stroke="#1D1D1B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -217,9 +217,9 @@
             <circle id="Oval-3-Copy-9" fill="#F8BD3A" style="mix-blend-mode: multiply;" cx="406.849396" cy="407.628772" r="25.1991384"></circle>
             <circle id="Oval-3-Copy-4" fill="#32AEC1" style="mix-blend-mode: multiply;" cx="369.058925" cy="442.465264" r="25.1991384"></circle>
             <ellipse id="Oval-3-Copy-5" fill="#32AEC1" style="mix-blend-mode: multiply;" cx="451.705206" cy="526.929255" rx="25.1991384" ry="25.1991384"></ellipse>
-            <ellipse id="Oval-3-Copy-10" fill="#EA5350" style="mix-blend-mode: multiply;" cx="458.875087" cy="816.516018" rx="25.1991384" ry="25.1991384"></ellipse>
-            <ellipse id="Oval-3-Copy-13" fill="#EA5350" style="mix-blend-mode: multiply;" cx="717.376624" cy="516.61058" rx="25.1991384" ry="25.1991384"></ellipse>
-            <ellipse id="Oval-3-Copy-14" fill="#EA5350" style="mix-blend-mode: multiply;" cx="137.300862" cy="134.95249" rx="25.1991384" ry="25.1991384"></ellipse>
+            <ellipse id="Oval-3-Copy-10" fill="#F8BD3A" style="mix-blend-mode: multiply;" cx="458.875087" cy="816.516018" rx="25.1991384" ry="25.1991384"></ellipse>
+            <ellipse id="Oval-3-Copy-13" fill="#F8BD3A" style="mix-blend-mode: multiply;" cx="717.376624" cy="516.61058" rx="25.1991384" ry="25.1991384"></ellipse>
+            <ellipse id="Oval-3-Copy-14" fill="#F8BD3A" style="mix-blend-mode: multiply;" cx="137.300862" cy="134.95249" rx="25.1991384" ry="25.1991384"></ellipse>
             <ellipse id="Oval-3-Copy-6" fill="#32AEC1" style="mix-blend-mode: multiply;" cx="551.410328" cy="610.814051" rx="25.1991384" ry="25.1991384"></ellipse>
             <g id="Group-34" transform="translate(271.009403, 198.610279)">
                 <rect id="Rectangle-13-Copy-4" fill="#000000" x="0" y="0" width="238.285062" height="43.926151"></rect>
