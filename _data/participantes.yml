@@ -995,6 +995,12 @@
       tag9: "Juventudes"
       tag10: "Participación Ciudadana"
       tag11: "Política"
+<<<<<<< HEAD
       tag12: "Seguridad Pública"
       tag413: "Transparencia"
       uid: "brasil-12"
+=======
+      tag12: "Seguridad"
+      tag13: "Ciudad"
+      uid: "brasil-1"
+>>>>>>> origin/master
